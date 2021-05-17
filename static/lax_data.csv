@@ -1,0 +1,1711 @@
+﻿flight_count,flight_number,departure_airport,arrival_airport_id,arrival_airport
+1,265,Manzanillo,1,Los Angeles International
+2,535,Metropolitan Oak International,1,Los Angeles International
+3,510,Metropolitan Oak International,1,Los Angeles International
+4,510,Metropolitan Oak International,1,Los Angeles International
+5,510,Metropolitan Oak International,1,Los Angeles International
+6,510,Metropolitan Oak International,1,Los Angeles International
+7,4259,Love Field,1,Los Angeles International
+8,215,Denver International,1,Los Angeles International
+9,2742,Dallas/Fort Worth International,1,Los Angeles International
+10,1193,Dallas/Fort Worth International,1,Los Angeles International
+11,1331,Dallas/Fort Worth International,1,Los Angeles International
+12,3303,Boise Air Terminal/Gowen Field,1,Los Angeles International
+13,3071,Boise Air Terminal/Gowen Field,1,Los Angeles International
+14,7563,Boise Air Terminal/Gowen Field,1,Los Angeles International
+15,2224,George Bush Intercontinental,1,Los Angeles International
+16,2224,George Bush Intercontinental,1,Los Angeles International
+17,200,Seattle-Tacoma International,1,Los Angeles International
+18,444,Seattle-Tacoma International,1,Los Angeles International
+19,3423,Mineta San Jose International Airport,1,Los Angeles International
+20,1737,Mineta San Jose International Airport,1,Los Angeles International
+21,3115,Mineta San Jose International Airport,1,Los Angeles International
+22,5513,Sacramento International,1,Los Angeles International
+23,2387,Sacramento International,1,Los Angeles International
+24,9087,Sacramento International,1,Los Angeles International
+25,9087,Sacramento International,1,Los Angeles International
+26,1142,Salt Lake City International,1,Los Angeles International
+27,7216,Salt Lake City International,1,Los Angeles International
+28,1963,Salt Lake City International,1,Los Angeles International
+29,117,John F Kennedy International,1,Los Angeles International
+30,117,John F Kennedy International,1,Los Angeles International
+31,4043,Portland International,1,Los Angeles International
+32,4043,Portland International,1,Los Angeles International
+33,2649,Portland International,1,Los Angeles International
+34,5793,San Diego International Airport,1,Los Angeles International
+35,6235,San Diego International Airport,1,Los Angeles International
+36,8893,San Diego International Airport,1,Los Angeles International
+37,496,Honolulu International,1,Los Angeles International
+38,1783,Honolulu International,1,Los Angeles International
+39,3591,Honolulu International,1,Los Angeles International
+40,7523,Chicago Ohare International,1,Los Angeles International
+41,7523,Chicago Ohare International,1,Los Angeles International
+42,9583,Chicago Ohare International,1,Los Angeles International
+43,9583,Chicago Ohare International,1,Los Angeles International
+44,669,Chicago Ohare International,1,Los Angeles International
+45,669,Chicago Ohare International,1,Los Angeles International
+46,4515,Sky Harbor International,1,Los Angeles International
+47,256,San Francisco International,1,Los Angeles International
+48,2951,Sky Harbor International,1,Los Angeles International
+49,2951,Sky Harbor International,1,Los Angeles International
+50,385,Seattle-Tacoma International,1,Los Angeles International
+51,365,Hartsfield-jackson Atlanta International,1,Los Angeles International
+52,365,Hartsfield-jackson Atlanta International,1,Los Angeles International
+53,365,Hartsfield-jackson Atlanta International,1,Los Angeles International
+54,3947,Mc Carran International,1,Los Angeles International
+55,3947,Mc Carran International,1,Los Angeles International
+56,6399,Mc Carran International,1,Los Angeles International
+57,6399,Mc Carran International,1,Los Angeles International
+58,4182,Mc Carran International,1,Los Angeles International
+59,4182,Mc Carran International,1,Los Angeles International
+60,3240,Mc Carran International,1,Los Angeles International
+61,3240,Mc Carran International,1,Los Angeles International
+62,6842,Schiphol,1,Los Angeles International
+63,9293,Schiphol,1,Los Angeles International
+64,4502,Detroit Metropolitan Wayne County,1,Los Angeles International
+65,4502,Detroit Metropolitan Wayne County,1,Los Angeles International
+66,2528,Detroit Metropolitan Wayne County,1,Los Angeles International
+67,2528,Detroit Metropolitan Wayne County,1,Los Angeles International
+68,510,Don Miguel Hidalgo y Costilla International,1,Los Angeles International
+69,510,Don Miguel Hidalgo y Costilla International,1,Los Angeles International
+70,510,Don Miguel Hidalgo y Costilla International,1,Los Angeles International
+71,510,Don Miguel Hidalgo y Costilla International,1,Los Angeles International
+72,3315,Portland International,1,Los Angeles International
+73,3315,Portland International,1,Los Angeles International
+74,3315,Portland International,1,Los Angeles International
+75,3068,Portland International,1,Los Angeles International
+76,3068,Portland International,1,Los Angeles International
+77,3068,Portland International,1,Los Angeles International
+78,1674,Charlotte Douglas,1,Los Angeles International
+79,1674,Charlotte Douglas,1,Los Angeles International
+80,1674,Charlotte Douglas,1,Los Angeles International
+81,8102,Ninoy Aquino International,1,Los Angeles International
+82,2732,Denver International,1,Los Angeles International
+83,7547,Dallas/Fort Worth International,1,Los Angeles International
+84,7547,Dallas/Fort Worth International,1,Los Angeles International
+85,615,Internacional Benito Juarez,1,Los Angeles International
+86,615,Internacional Benito Juarez,1,Los Angeles International
+87,413,Sky Harbor International,1,Los Angeles International
+88,413,Sky Harbor International,1,Los Angeles International
+89,413,Sky Harbor International,1,Los Angeles International
+90,1293,Sky Harbor International,1,Los Angeles International
+91,1293,Sky Harbor International,1,Los Angeles International
+92,1293,Sky Harbor International,1,Los Angeles International
+93,9198,Sky Harbor International,1,Los Angeles International
+94,9198,Sky Harbor International,1,Los Angeles International
+95,9198,Sky Harbor International,1,Los Angeles International
+96,7583,Sky Harbor International,1,Los Angeles International
+97,7583,Sky Harbor International,1,Los Angeles International
+98,7583,Sky Harbor International,1,Los Angeles International
+99,106,Haneda Airport,1,Los Angeles International
+100,106,Haneda Airport,1,Los Angeles International
+101,5924,El Salvador International,1,Los Angeles International
+102,1966,El Salvador International,1,Los Angeles International
+103,6231,San Diego International Airport,1,Los Angeles International
+104,5854,San Diego International Airport,1,Los Angeles International
+105,3569,Portland International,1,Los Angeles International
+106,6864,Portland International,1,Los Angeles International
+107,4150,Portland International,1,Los Angeles International
+108,1284,Portland International,1,Los Angeles International
+109,7043,Guangzhou Baiyun International,1,Los Angeles International
+110,7750,Guangzhou Baiyun International,1,Los Angeles International
+111,327,Guangzhou Baiyun International,1,Los Angeles International
+112,6875,John F Kennedy International,1,Los Angeles International
+113,3827,John F Kennedy International,1,Los Angeles International
+114,7364,John F Kennedy International,1,Los Angeles International
+115,1496,John F Kennedy International,1,Los Angeles International
+116,1127,Charlotte Douglas,1,Los Angeles International
+117,487,Charlotte Douglas,1,Los Angeles International
+118,4905,Sacramento International,1,Los Angeles International
+119,7561,Sacramento International,1,Los Angeles International
+120,7561,Sacramento International,1,Los Angeles International
+121,7579,Sacramento International,1,Los Angeles International
+122,3901,Sacramento International,1,Los Angeles International
+123,3172,Sacramento International,1,Los Angeles International
+124,516,Hartsfield-jackson Atlanta International,1,Los Angeles International
+125,2373,Austin-bergstrom International,1,Los Angeles International
+126,2373,Austin-bergstrom International,1,Los Angeles International
+127,3809,Austin-bergstrom International,1,Los Angeles International
+128,717,Austin-bergstrom International,1,Los Angeles International
+129,23,Heathrow,1,Los Angeles International
+130,4217,Palm Springs Metropolitan Area,1,Los Angeles International
+131,2812,Palm Springs Metropolitan Area,1,Los Angeles International
+132,4786,Palm Springs Metropolitan Area,1,Los Angeles International
+133,4786,Palm Springs Metropolitan Area,1,Los Angeles International
+134,3883,Palm Springs Metropolitan Area,1,Los Angeles International
+135,8860,Franz Josef Strauss,1,Los Angeles International
+136,4214,Franz Josef Strauss,1,Los Angeles International
+137,7329,Franz Josef Strauss,1,Los Angeles International
+138,7246,Franz Josef Strauss,1,Los Angeles International
+139,452,Franz Josef Strauss,1,Los Angeles International
+140,3067,Fresno Air Terminal Airport,1,Los Angeles International
+141,3473,Fresno Air Terminal Airport,1,Los Angeles International
+142,6577,Nashville International,1,Los Angeles International
+143,6577,Nashville International,1,Los Angeles International
+144,7557,Nashville International,1,Los Angeles International
+145,7557,Nashville International,1,Los Angeles International
+146,9448,Nashville International,1,Los Angeles International
+147,9448,Nashville International,1,Los Angeles International
+148,2348,Nashville International,1,Los Angeles International
+149,2348,Nashville International,1,Los Angeles International
+150,2160,Logan International,1,Los Angeles International
+151,312,Logan International,1,Los Angeles International
+152,731,Chicago Ohare International,1,Los Angeles International
+153,731,Chicago Ohare International,1,Los Angeles International
+154,731,Chicago Ohare International,1,Los Angeles International
+155,731,Chicago Ohare International,1,Los Angeles International
+156,7523,Chicago Ohare International,1,Los Angeles International
+157,7523,Chicago Ohare International,1,Los Angeles International
+158,9583,Chicago Ohare International,1,Los Angeles International
+159,9583,Chicago Ohare International,1,Los Angeles International
+160,669,Chicago Ohare International,1,Los Angeles International
+161,669,Chicago Ohare International,1,Los Angeles International
+162,9486,Dallas/Fort Worth International,1,Los Angeles International
+163,524,Dallas/Fort Worth International,1,Los Angeles International
+164,524,Dallas/Fort Worth International,1,Los Angeles International
+165,2621,Dallas/Fort Worth International,1,Los Angeles International
+166,2621,Dallas/Fort Worth International,1,Los Angeles International
+167,4703,Dallas/Fort Worth International,1,Los Angeles International
+168,4703,Dallas/Fort Worth International,1,Los Angeles International
+169,9004,Dallas/Fort Worth International,1,Los Angeles International
+170,9004,Dallas/Fort Worth International,1,Los Angeles International
+171,7406,Dallas/Fort Worth International,1,Los Angeles International
+172,7819,Dallas/Fort Worth International,1,Los Angeles International
+173,7819,Dallas/Fort Worth International,1,Los Angeles International
+174,2075,Dallas/Fort Worth International,1,Los Angeles International
+175,2075,Dallas/Fort Worth International,1,Los Angeles International
+176,6951,Dallas/Fort Worth International,1,Los Angeles International
+177,6951,Dallas/Fort Worth International,1,Los Angeles International
+178,954,Dallas/Fort Worth International,1,Los Angeles International
+179,954,Dallas/Fort Worth International,1,Los Angeles International
+180,1765,Dallas/Fort Worth International,1,Los Angeles International
+181,7430,Orlando International,1,Los Angeles International
+182,7430,Orlando International,1,Los Angeles International
+183,2223,Orlando International,1,Los Angeles International
+184,2223,Orlando International,1,Los Angeles International
+185,2223,Orlando International,1,Los Angeles International
+186,491,Orlando International,1,Los Angeles International
+187,491,Orlando International,1,Los Angeles International
+188,7279,Ataturk Airport,1,Los Angeles International
+189,4854,Ataturk Airport,1,Los Angeles International
+190,5009,Ataturk Airport,1,Los Angeles International
+191,5009,Ataturk Airport,1,Los Angeles International
+192,846,William P Hobby,1,Los Angeles International
+193,9738,Beijing Capital International,1,Los Angeles International
+194,4574,Albuquerque International,1,Los Angeles International
+195,4574,Albuquerque International,1,Los Angeles International
+196,3145,Albuquerque International,1,Los Angeles International
+197,3145,Albuquerque International,1,Los Angeles International
+198,8435,Albuquerque International,1,Los Angeles International
+199,8435,Albuquerque International,1,Los Angeles International
+200,6370,Albuquerque International,1,Los Angeles International
+201,6370,Albuquerque International,1,Los Angeles International
+202,3600,Albuquerque International,1,Los Angeles International
+203,3600,Albuquerque International,1,Los Angeles International
+204,4503,Taiwan Taoyuan International (Chiang Kai Shek International),1,Los Angeles International
+205,8008,Taiwan Taoyuan International (Chiang Kai Shek International),1,Los Angeles International
+206,5812,Taiwan Taoyuan International (Chiang Kai Shek International),1,Los Angeles International
+207,6244,Taiwan Taoyuan International (Chiang Kai Shek International),1,Los Angeles International
+208,12,Taiwan Taoyuan International (Chiang Kai Shek International),1,Los Angeles International
+209,6814,Raleigh-durham International Airport,1,Los Angeles International
+210,7253,Raleigh-durham International Airport,1,Los Angeles International
+211,8105,Raleigh-durham International Airport,1,Los Angeles International
+212,2265,Raleigh-durham International Airport,1,Los Angeles International
+213,6928,Raleigh-durham International Airport,1,Los Angeles International
+214,6928,Raleigh-durham International Airport,1,Los Angeles International
+215,2126,Raleigh-durham International Airport,1,Los Angeles International
+216,5616,Denver International,1,Los Angeles International
+217,5616,Denver International,1,Los Angeles International
+218,3284,Denver International,1,Los Angeles International
+219,3284,Denver International,1,Los Angeles International
+220,9087,Denver International,1,Los Angeles International
+221,9087,Denver International,1,Los Angeles International
+222,7404,Denver International,1,Los Angeles International
+223,5893,Denver International,1,Los Angeles International
+224,6596,Denver International,1,Los Angeles International
+225,6596,Denver International,1,Los Angeles International
+226,677,Denver International,1,Los Angeles International
+227,677,Denver International,1,Los Angeles International
+228,3388,John F Kennedy International,1,Los Angeles International
+229,3187,John F Kennedy International,1,Los Angeles International
+230,5114,John F Kennedy International,1,Los Angeles International
+231,4867,John F Kennedy International,1,Los Angeles International
+232,302,John F Kennedy International,1,Los Angeles International
+233,302,John F Kennedy International,1,Los Angeles International
+234,302,John F Kennedy International,1,Los Angeles International
+235,5034,John F Kennedy International,1,Los Angeles International
+236,4000,John F Kennedy International,1,Los Angeles International
+237,7515,John F Kennedy International,1,Los Angeles International
+238,3100,John F Kennedy International,1,Los Angeles International
+239,7770,John F Kennedy International,1,Los Angeles International
+240,1101,John F Kennedy International,1,Los Angeles International
+241,1,John F Kennedy International,1,Los Angeles International
+242,6674,John F Kennedy International,1,Los Angeles International
+243,9741,Narita International Airport,1,Los Angeles International
+244,274,Jorge Chavez International,1,Los Angeles International
+245,1059,Shanghai Pudong International,1,Los Angeles International
+246,9736,Shanghai Pudong International,1,Los Angeles International
+247,6912,Don Miguel Hidalgo y Costilla International,1,Los Angeles International
+248,912,Don Miguel Hidalgo y Costilla International,1,Los Angeles International
+249,1247,Fort Lauderdale–Hollywood International,1,Los Angeles International
+250,185,Hopkins International,1,Los Angeles International
+251,185,Hopkins International,1,Los Angeles International
+252,185,Hopkins International,1,Los Angeles International
+253,1674,Charlotte Douglas,1,Los Angeles International
+254,1674,Charlotte Douglas,1,Los Angeles International
+255,1674,Charlotte Douglas,1,Los Angeles International
+256,653,Pittsburgh International,1,Los Angeles International
+257,6955,Newark Liberty International,1,Los Angeles International
+258,6955,Newark Liberty International,1,Los Angeles International
+259,2873,Newark Liberty International,1,Los Angeles International
+260,2873,Newark Liberty International,1,Los Angeles International
+261,2801,George Bush Intercontinental,1,Los Angeles International
+262,2801,George Bush Intercontinental,1,Los Angeles International
+263,2801,George Bush Intercontinental,1,Los Angeles International
+264,7204,George Bush Intercontinental,1,Los Angeles International
+265,403,George Bush Intercontinental,1,Los Angeles International
+266,403,George Bush Intercontinental,1,Los Angeles International
+267,403,George Bush Intercontinental,1,Los Angeles International
+268,4717,George Bush Intercontinental,1,Los Angeles International
+269,4717,George Bush Intercontinental,1,Los Angeles International
+270,7595,George Bush Intercontinental,1,Los Angeles International
+271,7595,George Bush Intercontinental,1,Los Angeles International
+272,2932,George Bush Intercontinental,1,Los Angeles International
+273,2932,George Bush Intercontinental,1,Los Angeles International
+274,2932,George Bush Intercontinental,1,Los Angeles International
+275,3253,George Bush Intercontinental,1,Los Angeles International
+276,3253,George Bush Intercontinental,1,Los Angeles International
+277,5704,Seoul (Incheon),1,Los Angeles International
+278,8001,Seoul (Incheon),1,Los Angeles International
+279,6743,Seoul (Incheon),1,Los Angeles International
+280,7287,Seoul (Incheon),1,Los Angeles International
+281,204,Seoul (Incheon),1,Los Angeles International
+282,204,Seoul (Incheon),1,Los Angeles International
+283,7958,Ted Stevens Anchorage International Airport,1,Los Angeles International
+284,8038,Singapore Changi,1,Los Angeles International
+285,8038,Singapore Changi,1,Los Angeles International
+286,38,Singapore Changi,1,Los Angeles International
+287,38,Singapore Changi,1,Los Angeles International
+288,8858,Louis Armstrong New Orléans International Airport,1,Los Angeles International
+289,8858,Louis Armstrong New Orléans International Airport,1,Los Angeles International
+290,4375,Louis Armstrong New Orléans International Airport,1,Los Angeles International
+291,4375,Louis Armstrong New Orléans International Airport,1,Los Angeles International
+292,7200,Louis Armstrong New Orléans International Airport,1,Los Angeles International
+293,8121,Louis Armstrong New Orléans International Airport,1,Los Angeles International
+294,8121,Louis Armstrong New Orléans International Airport,1,Los Angeles International
+295,2249,Louis Armstrong New Orléans International Airport,1,Los Angeles International
+296,2249,Louis Armstrong New Orléans International Airport,1,Los Angeles International
+297,6667,Louis Armstrong New Orléans International Airport,1,Los Angeles International
+298,6667,Louis Armstrong New Orléans International Airport,1,Los Angeles International
+299,999,Louis Armstrong New Orléans International Airport,1,Los Angeles International
+300,999,Louis Armstrong New Orléans International Airport,1,Los Angeles International
+301,1151,Fort Worth Alliance,1,Los Angeles International
+302,1151,Fort Worth Alliance,1,Los Angeles International
+303,8933,Hong Kong International,1,Los Angeles International
+304,8933,Hong Kong International,1,Los Angeles International
+305,880,Hong Kong International,1,Los Angeles International
+306,880,Hong Kong International,1,Los Angeles International
+307,880,Hong Kong International,1,Los Angeles International
+308,443,Shanghai Pudong International,1,Los Angeles International
+309,966,Austin-bergstrom International,1,Los Angeles International
+310,6911,Austin-bergstrom International,1,Los Angeles International
+311,2065,Austin-bergstrom International,1,Los Angeles International
+312,5266,Austin-bergstrom International,1,Los Angeles International
+313,6766,Austin-bergstrom International,1,Los Angeles International
+314,3047,Sonoma County,1,Los Angeles International
+315,2947,Charlotte Douglas,1,Los Angeles International
+316,185,Hopkins International,1,Los Angeles International
+317,185,Hopkins International,1,Los Angeles International
+318,185,Hopkins International,1,Los Angeles International
+319,219,Don Miguel Hidalgo y Costilla International,1,Los Angeles International
+320,7580,Don Miguel Hidalgo y Costilla International,1,Los Angeles International
+321,6204,Don Miguel Hidalgo y Costilla International,1,Los Angeles International
+322,2798,"Jacksonville,",1,Los Angeles International
+323,4724,Denver International,1,Los Angeles International
+324,4724,Denver International,1,Los Angeles International
+325,353,Logan International,1,Los Angeles International
+326,3092,Salt Lake City International,1,Los Angeles International
+327,622,Cancún International,1,Los Angeles International
+328,7590,Cancún International,1,Los Angeles International
+329,5285,Cancún International,1,Los Angeles International
+330,3068,Portland International,1,Los Angeles International
+331,3068,Portland International,1,Los Angeles International
+332,3068,Portland International,1,Los Angeles International
+333,3315,Portland International,1,Los Angeles International
+334,3315,Portland International,1,Los Angeles International
+335,3315,Portland International,1,Los Angeles International
+336,788,Dallas/Fort Worth International,1,Los Angeles International
+337,291,Internacional,1,Los Angeles International
+338,291,Internacional,1,Los Angeles International
+339,316,Provo,1,Los Angeles International
+340,316,Provo,1,Los Angeles International
+341,4043,Portland International,1,Los Angeles International
+342,4043,Portland International,1,Los Angeles International
+343,7982,Haneda Airport,1,Los Angeles International
+344,7982,Haneda Airport,1,Los Angeles International
+345,2523,Heathrow,1,Los Angeles International
+346,2523,Heathrow,1,Los Angeles International
+347,7973,Shanghai Pudong International,1,Los Angeles International
+348,7973,Shanghai Pudong International,1,Los Angeles International
+349,7577,Shanghai Pudong International,1,Los Angeles International
+350,716,Ted Stevens Anchorage International Airport,1,Los Angeles International
+351,716,Ted Stevens Anchorage International Airport,1,Los Angeles International
+352,2062,Snohomish County - Paine Field,1,Los Angeles International
+353,2062,Snohomish County - Paine Field,1,Los Angeles International
+354,2062,Snohomish County - Paine Field,1,Los Angeles International
+355,1869,Metropolitan Oak International,1,Los Angeles International
+356,1869,Metropolitan Oak International,1,Los Angeles International
+357,283,Daniel Oduber International,1,Los Angeles International
+358,283,Daniel Oduber International,1,Los Angeles International
+359,283,Daniel Oduber International,1,Los Angeles International
+360,403,Denver International,1,Los Angeles International
+361,403,Denver International,1,Los Angeles International
+362,403,Denver International,1,Los Angeles International
+363,365,Hartsfield-jackson Atlanta International,1,Los Angeles International
+364,365,Hartsfield-jackson Atlanta International,1,Los Angeles International
+365,365,Hartsfield-jackson Atlanta International,1,Los Angeles International
+366,253,Sacramento International,1,Los Angeles International
+367,253,Sacramento International,1,Los Angeles International
+368,803,Imperial County,1,Los Angeles International
+369,803,Imperial County,1,Los Angeles International
+370,803,Imperial County,1,Los Angeles International
+371,510,Don Miguel Hidalgo y Costilla International,1,Los Angeles International
+372,510,Don Miguel Hidalgo y Costilla International,1,Los Angeles International
+373,510,Don Miguel Hidalgo y Costilla International,1,Los Angeles International
+374,510,Don Miguel Hidalgo y Costilla International,1,Los Angeles International
+375,1370,Portland International,1,Los Angeles International
+376,1370,Portland International,1,Los Angeles International
+377,3704,Portland International,1,Los Angeles International
+378,6064,Portland International,1,Los Angeles International
+379,6064,Portland International,1,Los Angeles International
+380,4022,Portland International,1,Los Angeles International
+381,4022,Portland International,1,Los Angeles International
+382,4158,Portland International,1,Los Angeles International
+383,4158,Portland International,1,Los Angeles International
+384,6813,Portland International,1,Los Angeles International
+385,4018,Portland International,1,Los Angeles International
+386,4018,Portland International,1,Los Angeles International
+387,6841,Schiphol,1,Los Angeles International
+388,6841,Schiphol,1,Los Angeles International
+389,8180,Schiphol,1,Los Angeles International
+390,8180,Schiphol,1,Los Angeles International
+391,3885,Mineta San Jose International Airport,1,Los Angeles International
+392,3885,Mineta San Jose International Airport,1,Los Angeles International
+393,7238,Mineta San Jose International Airport,1,Los Angeles International
+394,7238,Mineta San Jose International Airport,1,Los Angeles International
+395,7195,Mineta San Jose International Airport,1,Los Angeles International
+396,7195,Mineta San Jose International Airport,1,Los Angeles International
+397,9019,Mineta San Jose International Airport,1,Los Angeles International
+398,9019,Mineta San Jose International Airport,1,Los Angeles International
+399,1105,Mineta San Jose International Airport,1,Los Angeles International
+400,1105,Mineta San Jose International Airport,1,Los Angeles International
+401,4186,Mineta San Jose International Airport,1,Los Angeles International
+402,4186,Mineta San Jose International Airport,1,Los Angeles International
+403,3748,Mineta San Jose International Airport,1,Los Angeles International
+404,3748,Mineta San Jose International Airport,1,Los Angeles International
+405,1889,Mc Carran International,1,Los Angeles International
+406,2163,Mc Carran International,1,Los Angeles International
+407,1721,Charlotte Douglas,1,Los Angeles International
+408,1721,Charlotte Douglas,1,Los Angeles International
+409,1157,Charlotte Douglas,1,Los Angeles International
+410,1157,Charlotte Douglas,1,Los Angeles International
+411,2109,Salt Lake City International,1,Los Angeles International
+412,2109,Salt Lake City International,1,Los Angeles International
+413,2109,Salt Lake City International,1,Los Angeles International
+414,3502,Indianapolis International,1,Los Angeles International
+415,101,Fort Lauderdale–Hollywood International,1,Los Angeles International
+416,3422,Clinton Field,1,Los Angeles International
+417,3422,Clinton Field,1,Los Angeles International
+418,339,Fort Lauderdale–Hollywood International,1,Los Angeles International
+419,501,Austin-bergstrom International,1,Los Angeles International
+420,8046,Internacional Benito Juarez,1,Los Angeles International
+421,8046,Internacional Benito Juarez,1,Los Angeles International
+422,8046,Internacional Benito Juarez,1,Los Angeles International
+423,7942,Internacional Benito Juarez,1,Los Angeles International
+424,7942,Internacional Benito Juarez,1,Los Angeles International
+425,7942,Internacional Benito Juarez,1,Los Angeles International
+426,3781,Loreto,1,Los Angeles International
+427,1253,Loreto,1,Los Angeles International
+428,255,Loreto,1,Los Angeles International
+429,916,Don Miguel Hidalgo y Costilla International,1,Los Angeles International
+430,916,Don Miguel Hidalgo y Costilla International,1,Los Angeles International
+431,6916,Don Miguel Hidalgo y Costilla International,1,Los Angeles International
+432,6916,Don Miguel Hidalgo y Costilla International,1,Los Angeles International
+433,6916,Don Miguel Hidalgo y Costilla International,1,Los Angeles International
+434,1061,Miami International Airport,1,Los Angeles International
+435,1061,Miami International Airport,1,Los Angeles International
+436,4123,Miami International Airport,1,Los Angeles International
+437,9411,Miami International Airport,1,Los Angeles International
+438,5118,Miami International Airport,1,Los Angeles International
+439,4696,Denver International,1,Los Angeles International
+440,1265,Denver International,1,Los Angeles International
+441,7215,Salt Lake City International,1,Los Angeles International
+442,7215,Salt Lake City International,1,Los Angeles International
+443,1885,Salt Lake City International,1,Los Angeles International
+444,1885,Salt Lake City International,1,Los Angeles International
+445,302,Austin-bergstrom International,1,Los Angeles International
+446,302,Austin-bergstrom International,1,Los Angeles International
+447,302,Austin-bergstrom International,1,Los Angeles International
+448,723,John F Kennedy International,1,Los Angeles International
+449,3460,Mineta San Jose International Airport,1,Los Angeles International
+450,3460,Mineta San Jose International Airport,1,Los Angeles International
+451,7194,Mineta San Jose International Airport,1,Los Angeles International
+452,7194,Mineta San Jose International Airport,1,Los Angeles International
+453,9018,Mineta San Jose International Airport,1,Los Angeles International
+454,3328,Mineta San Jose International Airport,1,Los Angeles International
+455,3328,Mineta San Jose International Airport,1,Los Angeles International
+456,3735,Mineta San Jose International Airport,1,Los Angeles International
+457,3735,Mineta San Jose International Airport,1,Los Angeles International
+458,3498,Fresno Air Terminal Airport,1,Los Angeles International
+459,5318,Fresno Air Terminal Airport,1,Los Angeles International
+460,6257,Fresno Air Terminal Airport,1,Los Angeles International
+461,9043,Fresno Air Terminal Airport,1,Los Angeles International
+462,9043,Fresno Air Terminal Airport,1,Los Angeles International
+463,2367,Fresno Air Terminal Airport,1,Los Angeles International
+464,3240,Mc Carran International,1,Los Angeles International
+465,3240,Mc Carran International,1,Los Angeles International
+466,4182,Mc Carran International,1,Los Angeles International
+467,4182,Mc Carran International,1,Los Angeles International
+468,6399,Mc Carran International,1,Los Angeles International
+469,6399,Mc Carran International,1,Los Angeles International
+470,324,Mc Carran International,1,Los Angeles International
+471,7517,Mc Carran International,1,Los Angeles International
+472,7517,Mc Carran International,1,Los Angeles International
+473,3155,Mc Carran International,1,Los Angeles International
+474,7660,Mc Carran International,1,Los Angeles International
+475,4567,Mineta San Jose International Airport,1,Los Angeles International
+476,110,Jeffco,1,Los Angeles International
+477,2062,Snohomish County - Paine Field,1,Los Angeles International
+478,2062,Snohomish County - Paine Field,1,Los Angeles International
+479,2062,Snohomish County - Paine Field,1,Los Angeles International
+480,283,Daniel Oduber International,1,Los Angeles International
+481,283,Daniel Oduber International,1,Los Angeles International
+482,283,Daniel Oduber International,1,Los Angeles International
+483,615,Internacional Benito Juarez,1,Los Angeles International
+484,615,Internacional Benito Juarez,1,Los Angeles International
+485,3678,Sacramento International,1,Los Angeles International
+486,803,Imperial County,1,Los Angeles International
+487,803,Imperial County,1,Los Angeles International
+488,803,Imperial County,1,Los Angeles International
+489,510,Don Miguel Hidalgo y Costilla International,1,Los Angeles International
+490,510,Don Miguel Hidalgo y Costilla International,1,Los Angeles International
+491,510,Don Miguel Hidalgo y Costilla International,1,Los Angeles International
+492,510,Don Miguel Hidalgo y Costilla International,1,Los Angeles International
+493,3859,Seattle-Tacoma International,1,Los Angeles International
+494,3020,Seattle-Tacoma International,1,Los Angeles International
+495,4104,Seattle-Tacoma International,1,Los Angeles International
+496,430,Seattle-Tacoma International,1,Los Angeles International
+497,2784,Arcata,1,Los Angeles International
+498,5329,Arcata,1,Los Angeles International
+499,3834,Reno-Tahoe International,1,Los Angeles International
+500,9245,Reno-Tahoe International,1,Los Angeles International
+501,3114,Reno-Tahoe International,1,Los Angeles International
+502,3397,Reno-Tahoe International,1,Los Angeles International
+503,326,Merced Municipal Airport,1,Los Angeles International
+504,326,Merced Municipal Airport,1,Los Angeles International
+505,326,Merced Municipal Airport,1,Los Angeles International
+506,326,Merced Municipal Airport,1,Los Angeles International
+507,7821,Orlando International,1,Los Angeles International
+508,2223,Orlando International,1,Los Angeles International
+509,2223,Orlando International,1,Los Angeles International
+510,2223,Orlando International,1,Los Angeles International
+511,2558,Orlando International,1,Los Angeles International
+512,4058,Love Field,1,Los Angeles International
+513,1051,Shanghai Pudong International,1,Los Angeles International
+514,8180,Schiphol,1,Los Angeles International
+515,8180,Schiphol,1,Los Angeles International
+516,6841,Schiphol,1,Los Angeles International
+517,6841,Schiphol,1,Los Angeles International
+518,326,John F Kennedy International,1,Los Angeles International
+519,326,John F Kennedy International,1,Los Angeles International
+520,326,John F Kennedy International,1,Los Angeles International
+521,326,John F Kennedy International,1,Los Angeles International
+522,515,Hartsfield-jackson Atlanta International,1,Los Angeles International
+523,515,Hartsfield-jackson Atlanta International,1,Los Angeles International
+524,515,Hartsfield-jackson Atlanta International,1,Los Angeles International
+525,269,Heathrow,1,Los Angeles International
+526,269,Heathrow,1,Los Angeles International
+527,269,Heathrow,1,Los Angeles International
+528,100,Van Nuys,1,Los Angeles International
+529,8679,Ted Stevens Anchorage International Airport,1,Los Angeles International
+530,7583,Sky Harbor International,1,Los Angeles International
+531,7583,Sky Harbor International,1,Los Angeles International
+532,7583,Sky Harbor International,1,Los Angeles International
+533,9198,Sky Harbor International,1,Los Angeles International
+534,9198,Sky Harbor International,1,Los Angeles International
+535,9198,Sky Harbor International,1,Los Angeles International
+536,1293,Sky Harbor International,1,Los Angeles International
+537,1293,Sky Harbor International,1,Los Angeles International
+538,1293,Sky Harbor International,1,Los Angeles International
+539,413,Sky Harbor International,1,Los Angeles International
+540,413,Sky Harbor International,1,Los Angeles International
+541,413,Sky Harbor International,1,Los Angeles International
+542,2039,San Francisco International,1,Los Angeles International
+543,2039,San Francisco International,1,Los Angeles International
+544,9253,San Francisco International,1,Los Angeles International
+545,9253,San Francisco International,1,Los Angeles International
+546,9253,San Francisco International,1,Los Angeles International
+547,1263,San Francisco International,1,Los Angeles International
+548,1263,San Francisco International,1,Los Angeles International
+549,1263,San Francisco International,1,Los Angeles International
+550,1263,San Francisco International,1,Los Angeles International
+551,3877,Fresno Air Terminal Airport,1,Los Angeles International
+552,3877,Fresno Air Terminal Airport,1,Los Angeles International
+553,3877,Fresno Air Terminal Airport,1,Los Angeles International
+554,2208,Tucson International Airport,1,Los Angeles International
+555,2208,Tucson International Airport,1,Los Angeles International
+556,4219,Tucson International Airport,1,Los Angeles International
+557,7478,Tucson International Airport,1,Los Angeles International
+558,7478,Tucson International Airport,1,Los Angeles International
+559,7459,Tucson International Airport,1,Los Angeles International
+560,7459,Tucson International Airport,1,Los Angeles International
+561,7459,Tucson International Airport,1,Los Angeles International
+562,3443,Tucson International Airport,1,Los Angeles International
+563,3443,Tucson International Airport,1,Los Angeles International
+564,7664,Tucson International Airport,1,Los Angeles International
+565,7664,Tucson International Airport,1,Los Angeles International
+566,4440,Tucson International Airport,1,Los Angeles International
+567,4440,Tucson International Airport,1,Los Angeles International
+568,304,Seattle-Tacoma International,1,Los Angeles International
+569,304,Seattle-Tacoma International,1,Los Angeles International
+570,8709,Xiamen,1,Los Angeles International
+571,9132,Logan International,1,Los Angeles International
+572,2137,Logan International,1,Los Angeles International
+573,387,Logan International,1,Los Angeles International
+574,2041,Denver International,1,Los Angeles International
+575,403,Denver International,1,Los Angeles International
+576,403,Denver International,1,Los Angeles International
+577,403,Denver International,1,Los Angeles International
+578,869,Dallas/Fort Worth International,1,Los Angeles International
+579,869,Dallas/Fort Worth International,1,Los Angeles International
+580,869,Dallas/Fort Worth International,1,Los Angeles International
+581,869,Dallas/Fort Worth International,1,Los Angeles International
+582,1085,Dallas/Fort Worth International,1,Los Angeles International
+583,1085,Dallas/Fort Worth International,1,Los Angeles International
+584,3957,Metropolitan Oak International,1,Los Angeles International
+585,361D,Stewart,1,Los Angeles International
+586,437,Detroit Metropolitan Wayne County,1,Los Angeles International
+587,437,Detroit Metropolitan Wayne County,1,Los Angeles International
+588,7585,Reno-Tahoe International,1,Los Angeles International
+589,7585,Reno-Tahoe International,1,Los Angeles International
+590,7585,Reno-Tahoe International,1,Los Angeles International
+591,9244,Reno-Tahoe International,1,Los Angeles International
+592,9244,Reno-Tahoe International,1,Los Angeles International
+593,9244,Reno-Tahoe International,1,Los Angeles International
+594,3122,Reno-Tahoe International,1,Los Angeles International
+595,3122,Reno-Tahoe International,1,Los Angeles International
+596,3122,Reno-Tahoe International,1,Los Angeles International
+597,2194,Boise Air Terminal/Gowen Field,1,Los Angeles International
+598,2194,Boise Air Terminal/Gowen Field,1,Los Angeles International
+599,2194,Boise Air Terminal/Gowen Field,1,Los Angeles International
+600,4641,Boise Air Terminal/Gowen Field,1,Los Angeles International
+601,4641,Boise Air Terminal/Gowen Field,1,Los Angeles International
+602,4641,Boise Air Terminal/Gowen Field,1,Los Angeles International
+603,259,Cincinnati/Northern Kentucky,1,Los Angeles International
+604,3121,Salt Lake City International,1,Los Angeles International
+605,6955,Newark Liberty International,1,Los Angeles International
+606,6955,Newark Liberty International,1,Los Angeles International
+607,2873,Newark Liberty International,1,Los Angeles International
+608,2873,Newark Liberty International,1,Los Angeles International
+609,5651,Chicago Ohare International,1,Los Angeles International
+610,9685,Chicago Ohare International,1,Los Angeles International
+611,3926,Chicago Ohare International,1,Los Angeles International
+612,7429,Heathrow,1,Los Angeles International
+613,6984,Heathrow,1,Los Angeles International
+614,8933,Hong Kong International,1,Los Angeles International
+615,8933,Hong Kong International,1,Los Angeles International
+616,9190,Hong Kong International,1,Los Angeles International
+617,880,Hong Kong International,1,Los Angeles International
+618,880,Hong Kong International,1,Los Angeles International
+619,880,Hong Kong International,1,Los Angeles International
+620,441,Shanghai Pudong International,1,Los Angeles International
+621,441,Shanghai Pudong International,1,Los Angeles International
+622,1067,Shanghai Pudong International,1,Los Angeles International
+623,7459,Nanjing Lukou International Airport,1,Los Angeles International
+624,7459,Nanjing Lukou International Airport,1,Los Angeles International
+625,7459,Nanjing Lukou International Airport,1,Los Angeles International
+626,398,Seattle-Tacoma International,1,Los Angeles International
+627,9197,Sky Harbor International,1,Los Angeles International
+628,1295,Sky Harbor International,1,Los Angeles International
+629,4779,Sky Harbor International,1,Los Angeles International
+630,589,Sky Harbor International,1,Los Angeles International
+631,4603,George Bush Intercontinental,1,Los Angeles International
+632,3721,Louis Armstrong New Orléans International Airport,1,Los Angeles International
+633,7438,Louis Armstrong New Orléans International Airport,1,Los Angeles International
+634,2250,Louis Armstrong New Orléans International Airport,1,Los Angeles International
+635,6855,Louis Armstrong New Orléans International Airport,1,Los Angeles International
+636,2165,Louis Armstrong New Orléans International Airport,1,Los Angeles International
+637,2165,Louis Armstrong New Orléans International Airport,1,Los Angeles International
+638,3460,Mineta San Jose International Airport,1,Los Angeles International
+639,3460,Mineta San Jose International Airport,1,Los Angeles International
+640,3328,Mineta San Jose International Airport,1,Los Angeles International
+641,3328,Mineta San Jose International Airport,1,Los Angeles International
+642,7194,Mineta San Jose International Airport,1,Los Angeles International
+643,7194,Mineta San Jose International Airport,1,Los Angeles International
+644,3735,Mineta San Jose International Airport,1,Los Angeles International
+645,3735,Mineta San Jose International Airport,1,Los Angeles International
+646,9303,San Francisco International,1,Los Angeles International
+647,1125,San Francisco International,1,Los Angeles International
+648,7476,Washington Dulles International,1,Los Angeles International
+649,9589,Washington Dulles International,1,Los Angeles International
+650,7867,Washington Dulles International,1,Los Angeles International
+651,6289,Washington Dulles International,1,Los Angeles International
+652,6916,Don Miguel Hidalgo y Costilla International,1,Los Angeles International
+653,6916,Don Miguel Hidalgo y Costilla International,1,Los Angeles International
+654,6916,Don Miguel Hidalgo y Costilla International,1,Los Angeles International
+655,1855,Metropolitan Oak International,1,Los Angeles International
+656,1869,Metropolitan Oak International,1,Los Angeles International
+657,1869,Metropolitan Oak International,1,Los Angeles International
+658,137,Heathrow,1,Los Angeles International
+659,2967,Tampa International,1,Los Angeles International
+660,2967,Tampa International,1,Los Angeles International
+661,2967,Tampa International,1,Los Angeles International
+662,7825,Tampa International,1,Los Angeles International
+663,7825,Tampa International,1,Los Angeles International
+664,7825,Tampa International,1,Los Angeles International
+665,7656,Tampa International,1,Los Angeles International
+666,7656,Tampa International,1,Los Angeles International
+667,7656,Tampa International,1,Los Angeles International
+668,1068,Tampa International,1,Los Angeles International
+669,1068,Tampa International,1,Los Angeles International
+670,1068,Tampa International,1,Los Angeles International
+671,221,Shanghai Pudong International,1,Los Angeles International
+672,221,Shanghai Pudong International,1,Los Angeles International
+673,5009,Ataturk Airport,1,Los Angeles International
+674,5009,Ataturk Airport,1,Los Angeles International
+675,9,Ataturk Airport,1,Los Angeles International
+676,2801,Fort Lauderdale–Hollywood International,1,Los Angeles International
+677,2801,Fort Lauderdale–Hollywood International,1,Los Angeles International
+678,2801,Fort Lauderdale–Hollywood International,1,Los Angeles International
+679,4574,Albuquerque International,1,Los Angeles International
+680,4574,Albuquerque International,1,Los Angeles International
+681,8435,Albuquerque International,1,Los Angeles International
+682,8435,Albuquerque International,1,Los Angeles International
+683,6370,Albuquerque International,1,Los Angeles International
+684,6370,Albuquerque International,1,Los Angeles International
+685,3145,Albuquerque International,1,Los Angeles International
+686,3145,Albuquerque International,1,Los Angeles International
+687,3600,Albuquerque International,1,Los Angeles International
+688,3600,Albuquerque International,1,Los Angeles International
+689,5616,Denver International,1,Los Angeles International
+690,5616,Denver International,1,Los Angeles International
+691,3284,Denver International,1,Los Angeles International
+692,3284,Denver International,1,Los Angeles International
+693,9096,Denver International,1,Los Angeles International
+694,8053,Denver International,1,Los Angeles International
+695,6596,Denver International,1,Los Angeles International
+696,6596,Denver International,1,Los Angeles International
+697,677,Denver International,1,Los Angeles International
+698,677,Denver International,1,Los Angeles International
+699,2621,Dallas/Fort Worth International,1,Los Angeles International
+700,2621,Dallas/Fort Worth International,1,Los Angeles International
+701,4703,Dallas/Fort Worth International,1,Los Angeles International
+702,4703,Dallas/Fort Worth International,1,Los Angeles International
+703,9004,Dallas/Fort Worth International,1,Los Angeles International
+704,9004,Dallas/Fort Worth International,1,Los Angeles International
+705,7819,Dallas/Fort Worth International,1,Los Angeles International
+706,7819,Dallas/Fort Worth International,1,Los Angeles International
+707,2075,Dallas/Fort Worth International,1,Los Angeles International
+708,2075,Dallas/Fort Worth International,1,Los Angeles International
+709,6951,Dallas/Fort Worth International,1,Los Angeles International
+710,6951,Dallas/Fort Worth International,1,Los Angeles International
+711,954,Dallas/Fort Worth International,1,Los Angeles International
+712,954,Dallas/Fort Worth International,1,Los Angeles International
+713,6577,Nashville International,1,Los Angeles International
+714,6577,Nashville International,1,Los Angeles International
+715,7557,Nashville International,1,Los Angeles International
+716,7557,Nashville International,1,Los Angeles International
+717,9448,Nashville International,1,Los Angeles International
+718,9448,Nashville International,1,Los Angeles International
+719,2348,Nashville International,1,Los Angeles International
+720,2348,Nashville International,1,Los Angeles International
+721,1072,Nashville International,1,Los Angeles International
+722,7519,Miami International Airport,1,Los Angeles International
+723,7519,Miami International Airport,1,Los Angeles International
+724,9382,Miami International Airport,1,Los Angeles International
+725,9382,Miami International Airport,1,Los Angeles International
+726,3130,Miami International Airport,1,Los Angeles International
+727,1207,Miami International Airport,1,Los Angeles International
+728,1274,Miami International Airport,1,Los Angeles International
+729,2932,Detroit Metropolitan Wayne County,1,Los Angeles International
+730,2932,Detroit Metropolitan Wayne County,1,Los Angeles International
+731,2932,Detroit Metropolitan Wayne County,1,Los Angeles International
+732,185,Hopkins International,1,Los Angeles International
+733,185,Hopkins International,1,Los Angeles International
+734,185,Hopkins International,1,Los Angeles International
+735,8845,Frankfurt International Airport,1,Los Angeles International
+736,8641,Frankfurt International Airport,1,Los Angeles International
+737,4216,Frankfurt International Airport,1,Los Angeles International
+738,7319,Frankfurt International Airport,1,Los Angeles International
+739,6909,Hartsfield-jackson Atlanta International,1,Los Angeles International
+740,6909,Hartsfield-jackson Atlanta International,1,Los Angeles International
+741,345,Hartsfield-jackson Atlanta International,1,Los Angeles International
+742,345,Hartsfield-jackson Atlanta International,1,Los Angeles International
+743,1674,Charlotte Douglas,1,Los Angeles International
+744,1674,Charlotte Douglas,1,Los Angeles International
+745,1674,Charlotte Douglas,1,Los Angeles International
+746,9714,Heathrow,1,Los Angeles International
+747,8899,Austin-bergstrom International,1,Los Angeles International
+748,8899,Austin-bergstrom International,1,Los Angeles International
+749,5486,Austin-bergstrom International,1,Los Angeles International
+750,5486,Austin-bergstrom International,1,Los Angeles International
+751,7995,Austin-bergstrom International,1,Los Angeles International
+752,7995,Austin-bergstrom International,1,Los Angeles International
+753,2066,Austin-bergstrom International,1,Los Angeles International
+754,2066,Austin-bergstrom International,1,Los Angeles International
+755,6921,Austin-bergstrom International,1,Los Angeles International
+756,6921,Austin-bergstrom International,1,Los Angeles International
+757,1165,Austin-bergstrom International,1,Los Angeles International
+758,1165,Austin-bergstrom International,1,Los Angeles International
+759,9258,Sharjah International Airport,1,Los Angeles International
+760,97,Seoul (Incheon),1,Los Angeles International
+761,3496,Clinton Field,1,Los Angeles International
+762,213D,Seoul (Incheon),1,Los Angeles International
+763,1151,Fort Worth Alliance,1,Los Angeles International
+764,1151,Fort Worth Alliance,1,Los Angeles International
+765,8038,Singapore Changi,1,Los Angeles International
+766,8038,Singapore Changi,1,Los Angeles International
+767,38,Singapore Changi,1,Los Angeles International
+768,38,Singapore Changi,1,Los Angeles International
+769,586,Fort Lauderdale–Hollywood International,1,Los Angeles International
+770,2750,Indianapolis International,1,Los Angeles International
+771,4300,Salt Lake City International,1,Los Angeles International
+772,4300,Salt Lake City International,1,Los Angeles International
+773,9043,Salt Lake City International,1,Los Angeles International
+774,9043,Salt Lake City International,1,Los Angeles International
+775,6517,Salt Lake City International,1,Los Angeles International
+776,5408,Salt Lake City International,1,Los Angeles International
+777,7587,Salt Lake City International,1,Los Angeles International
+778,9320,Salt Lake City International,1,Los Angeles International
+779,1128,Salt Lake City International,1,Los Angeles International
+780,3228,Salt Lake City International,1,Los Angeles International
+781,3170,Salt Lake City International,1,Los Angeles International
+782,3170,Salt Lake City International,1,Los Angeles International
+783,5409,Salt Lake City International,1,Los Angeles International
+784,3376,Salt Lake City International,1,Los Angeles International
+785,1974,Salt Lake City International,1,Los Angeles International
+786,7148,Salt Lake City International,1,Los Angeles International
+787,2597,Salt Lake City International,1,Los Angeles International
+788,3598,Cancún International,1,Los Angeles International
+789,3598,Cancún International,1,Los Angeles International
+790,6281,Cancún International,1,Los Angeles International
+791,6281,Cancún International,1,Los Angeles International
+792,637,Cancún International,1,Los Angeles International
+793,637,Cancún International,1,Los Angeles International
+794,232,Cincinnati/Northern Kentucky,1,Los Angeles International
+795,1355,Philadelphia International,1,Los Angeles International
+796,1355,Philadelphia International,1,Los Angeles International
+797,582,Philadelphia International,1,Los Angeles International
+798,582,Philadelphia International,1,Los Angeles International
+799,582,Philadelphia International,1,Los Angeles International
+800,3949,Sky Harbor International,1,Los Angeles International
+801,3949,Sky Harbor International,1,Los Angeles International
+802,4128,Sky Harbor International,1,Los Angeles International
+803,4128,Sky Harbor International,1,Los Angeles International
+804,6898,Sky Harbor International,1,Los Angeles International
+805,6898,Sky Harbor International,1,Los Angeles International
+806,3894,Sky Harbor International,1,Los Angeles International
+807,8858,Louis Armstrong New Orléans International Airport,1,Los Angeles International
+808,8858,Louis Armstrong New Orléans International Airport,1,Los Angeles International
+809,4375,Louis Armstrong New Orléans International Airport,1,Los Angeles International
+810,4375,Louis Armstrong New Orléans International Airport,1,Los Angeles International
+811,8121,Louis Armstrong New Orléans International Airport,1,Los Angeles International
+812,8121,Louis Armstrong New Orléans International Airport,1,Los Angeles International
+813,2249,Louis Armstrong New Orléans International Airport,1,Los Angeles International
+814,2249,Louis Armstrong New Orléans International Airport,1,Los Angeles International
+815,6667,Louis Armstrong New Orléans International Airport,1,Los Angeles International
+816,6667,Louis Armstrong New Orléans International Airport,1,Los Angeles International
+817,999,Louis Armstrong New Orléans International Airport,1,Los Angeles International
+818,999,Louis Armstrong New Orléans International Airport,1,Los Angeles International
+819,3198,San Francisco International,1,Los Angeles International
+820,1336,San Francisco International,1,Los Angeles International
+821,3318,San Francisco International,1,Los Angeles International
+822,3624,San Francisco International,1,Los Angeles International
+823,4112,San Francisco International,1,Los Angeles International
+824,6605,Ted Stevens Anchorage International Airport,1,Los Angeles International
+825,284,Seoul (Incheon),1,Los Angeles International
+826,213,Seoul (Incheon),1,Los Angeles International
+827,9015,Sacramento International,1,Los Angeles International
+828,1183,Dallas/Fort Worth International,1,Los Angeles International
+829,1183,Dallas/Fort Worth International,1,Los Angeles International
+830,9504,Chicago Ohare International,1,Los Angeles International
+831,3162,Chicago Ohare International,1,Los Angeles International
+832,2484,Chicago Ohare International,1,Los Angeles International
+833,7375,Chicago Ohare International,1,Los Angeles International
+834,3422,Clinton Field,1,Los Angeles International
+835,3422,Clinton Field,1,Los Angeles International
+836,8028,Arturo Merino Benitez,1,Los Angeles International
+837,6886,Rogue Valley International - Medford Airport,1,Los Angeles International
+838,5620,Rogue Valley International - Medford Airport,1,Los Angeles International
+839,1777,George Bush Intercontinental,1,Los Angeles International
+840,2373,Austin-bergstrom International,1,Los Angeles International
+841,2373,Austin-bergstrom International,1,Los Angeles International
+842,117,Austin-bergstrom International,1,Los Angeles International
+843,117,Austin-bergstrom International,1,Los Angeles International
+844,439,Licenciado Gustavo Díaz Ordaz International,1,Los Angeles International
+845,6212,Licenciado Gustavo Díaz Ordaz International,1,Los Angeles International
+846,1263,Licenciado Gustavo Díaz Ordaz International,1,Los Angeles International
+847,1263,Licenciado Gustavo Díaz Ordaz International,1,Los Angeles International
+848,1263,Licenciado Gustavo Díaz Ordaz International,1,Los Angeles International
+849,1263,Licenciado Gustavo Díaz Ordaz International,1,Los Angeles International
+850,250,Licenciado Gustavo Díaz Ordaz International,1,Los Angeles International
+851,1515,Fort Lauderdale–Hollywood International,1,Los Angeles International
+852,9362,Seattle-Tacoma International,1,Los Angeles International
+853,315,John F Kennedy International,1,Los Angeles International
+854,524,Dallas/Fort Worth International,1,Los Angeles International
+855,524,Dallas/Fort Worth International,1,Los Angeles International
+856,869,Dallas/Fort Worth International,1,Los Angeles International
+857,869,Dallas/Fort Worth International,1,Los Angeles International
+858,869,Dallas/Fort Worth International,1,Los Angeles International
+859,869,Dallas/Fort Worth International,1,Los Angeles International
+860,515,Hartsfield-jackson Atlanta International,1,Los Angeles International
+861,515,Hartsfield-jackson Atlanta International,1,Los Angeles International
+862,515,Hartsfield-jackson Atlanta International,1,Los Angeles International
+863,1645,Heathrow,1,Los Angeles International
+864,1645,Heathrow,1,Los Angeles International
+865,5068,Heathrow,1,Los Angeles International
+866,5068,Heathrow,1,Los Angeles International
+867,6507,Heathrow,1,Los Angeles International
+868,6507,Heathrow,1,Los Angeles International
+869,4265,Heathrow,1,Los Angeles International
+870,4265,Heathrow,1,Los Angeles International
+871,8006,Heathrow,1,Los Angeles International
+872,8006,Heathrow,1,Los Angeles International
+873,2665,Heathrow,1,Los Angeles International
+874,2665,Heathrow,1,Los Angeles International
+875,269,Heathrow,1,Los Angeles International
+876,269,Heathrow,1,Los Angeles International
+877,269,Heathrow,1,Los Angeles International
+878,3877,Fresno Air Terminal Airport,1,Los Angeles International
+879,3877,Fresno Air Terminal Airport,1,Los Angeles International
+880,3877,Fresno Air Terminal Airport,1,Los Angeles International
+881,2039,San Francisco International,1,Los Angeles International
+882,2039,San Francisco International,1,Los Angeles International
+883,9253,San Francisco International,1,Los Angeles International
+884,9253,San Francisco International,1,Los Angeles International
+885,9253,San Francisco International,1,Los Angeles International
+886,1263,San Francisco International,1,Los Angeles International
+887,1263,San Francisco International,1,Los Angeles International
+888,1263,San Francisco International,1,Los Angeles International
+889,1263,San Francisco International,1,Los Angeles International
+890,9165,Tucson International Airport,1,Los Angeles International
+891,7478,Tucson International Airport,1,Los Angeles International
+892,7478,Tucson International Airport,1,Los Angeles International
+893,7459,Tucson International Airport,1,Los Angeles International
+894,7459,Tucson International Airport,1,Los Angeles International
+895,7459,Tucson International Airport,1,Los Angeles International
+896,3443,Tucson International Airport,1,Los Angeles International
+897,3443,Tucson International Airport,1,Los Angeles International
+898,7664,Tucson International Airport,1,Los Angeles International
+899,7664,Tucson International Airport,1,Los Angeles International
+900,2208,Tucson International Airport,1,Los Angeles International
+901,2208,Tucson International Airport,1,Los Angeles International
+902,4440,Tucson International Airport,1,Los Angeles International
+903,4440,Tucson International Airport,1,Los Angeles International
+904,7735,Taiwan Taoyuan International (Chiang Kai Shek International),1,Los Angeles International
+905,7735,Taiwan Taoyuan International (Chiang Kai Shek International),1,Los Angeles International
+906,8,Taiwan Taoyuan International (Chiang Kai Shek International),1,Los Angeles International
+907,8,Taiwan Taoyuan International (Chiang Kai Shek International),1,Los Angeles International
+908,9360,Seattle-Tacoma International,1,Los Angeles International
+909,304,Seattle-Tacoma International,1,Los Angeles International
+910,304,Seattle-Tacoma International,1,Los Angeles International
+911,1821,Mineta San Jose International Airport,1,Los Angeles International
+912,1821,Mineta San Jose International Airport,1,Los Angeles International
+913,2194,Boise Air Terminal/Gowen Field,1,Los Angeles International
+914,2194,Boise Air Terminal/Gowen Field,1,Los Angeles International
+915,2194,Boise Air Terminal/Gowen Field,1,Los Angeles International
+916,4641,Boise Air Terminal/Gowen Field,1,Los Angeles International
+917,4641,Boise Air Terminal/Gowen Field,1,Los Angeles International
+918,4641,Boise Air Terminal/Gowen Field,1,Los Angeles International
+919,7585,Reno-Tahoe International,1,Los Angeles International
+920,7585,Reno-Tahoe International,1,Los Angeles International
+921,7585,Reno-Tahoe International,1,Los Angeles International
+922,9244,Reno-Tahoe International,1,Los Angeles International
+923,9244,Reno-Tahoe International,1,Los Angeles International
+924,9244,Reno-Tahoe International,1,Los Angeles International
+925,3122,Reno-Tahoe International,1,Los Angeles International
+926,3122,Reno-Tahoe International,1,Los Angeles International
+927,3122,Reno-Tahoe International,1,Los Angeles International
+928,661,Chicago Ohare International,1,Los Angeles International
+929,661,Chicago Ohare International,1,Los Angeles International
+930,2047,Seoul (Incheon),1,Los Angeles International
+931,16,Taiwan Taoyuan International (Chiang Kai Shek International),1,Los Angeles International
+932,1006,Auckland International,1,Los Angeles International
+933,2090,Dallas/Fort Worth International,1,Los Angeles International
+934,2091,Dallas/Fort Worth International,1,Los Angeles International
+935,2008,Taiwan Taoyuan International (Chiang Kai Shek International),1,Los Angeles International
+936,2967,Tampa International,1,Los Angeles International
+937,2967,Tampa International,1,Los Angeles International
+938,2967,Tampa International,1,Los Angeles International
+939,7248,Tampa International,1,Los Angeles International
+940,7825,Tampa International,1,Los Angeles International
+941,7825,Tampa International,1,Los Angeles International
+942,7825,Tampa International,1,Los Angeles International
+943,7656,Tampa International,1,Los Angeles International
+944,7656,Tampa International,1,Los Angeles International
+945,7656,Tampa International,1,Los Angeles International
+946,1068,Tampa International,1,Los Angeles International
+947,1068,Tampa International,1,Los Angeles International
+948,1068,Tampa International,1,Los Angeles International
+949,731,Chicago Ohare International,1,Los Angeles International
+950,731,Chicago Ohare International,1,Los Angeles International
+951,731,Chicago Ohare International,1,Los Angeles International
+952,731,Chicago Ohare International,1,Los Angeles International
+953,2704,Cincinnati/Northern Kentucky,1,Los Angeles International
+954,2704,Cincinnati/Northern Kentucky,1,Los Angeles International
+955,7517,Cincinnati/Northern Kentucky,1,Los Angeles International
+956,7517,Cincinnati/Northern Kentucky,1,Los Angeles International
+957,8059,Cincinnati/Northern Kentucky,1,Los Angeles International
+958,8059,Cincinnati/Northern Kentucky,1,Los Angeles International
+959,2176,Cincinnati/Northern Kentucky,1,Los Angeles International
+960,2176,Cincinnati/Northern Kentucky,1,Los Angeles International
+961,1029,Cincinnati/Northern Kentucky,1,Los Angeles International
+962,1029,Cincinnati/Northern Kentucky,1,Los Angeles International
+963,6873,John F Kennedy International,1,Los Angeles International
+964,3995,John F Kennedy International,1,Los Angeles International
+965,323,John F Kennedy International,1,Los Angeles International
+966,8099,Orlando International,1,Los Angeles International
+967,8099,Orlando International,1,Los Angeles International
+968,7430,Orlando International,1,Los Angeles International
+969,7430,Orlando International,1,Los Angeles International
+970,4724,Denver International,1,Los Angeles International
+971,4724,Denver International,1,Los Angeles International
+972,885,Detroit Metropolitan Wayne County,1,Los Angeles International
+973,885,Detroit Metropolitan Wayne County,1,Los Angeles International
+974,6143,Detroit Metropolitan Wayne County,1,Los Angeles International
+975,2914,Detroit Metropolitan Wayne County,1,Los Angeles International
+976,3178,Detroit Metropolitan Wayne County,1,Los Angeles International
+977,5036,Detroit Metropolitan Wayne County,1,Los Angeles International
+978,72,Kingsford Smith,1,Los Angeles International
+979,842,Kingsford Smith,1,Los Angeles International
+980,40,Kingsford Smith,1,Los Angeles International
+981,7591,Kingsford Smith,1,Los Angeles International
+982,9840,Kingsford Smith,1,Los Angeles International
+983,3606,Kingsford Smith,1,Los Angeles International
+984,3606,Kingsford Smith,1,Los Angeles International
+985,3822,Kingsford Smith,1,Los Angeles International
+986,3822,Kingsford Smith,1,Los Angeles International
+987,1103,John F Kennedy International,1,Los Angeles International
+988,6702,Seoul (Incheon),1,Los Angeles International
+989,6702,Seoul (Incheon),1,Los Angeles International
+990,8428,Seoul (Incheon),1,Los Angeles International
+991,8428,Seoul (Incheon),1,Los Angeles International
+992,9044,Seoul (Incheon),1,Los Angeles International
+993,9044,Seoul (Incheon),1,Los Angeles International
+994,4502,Detroit Metropolitan Wayne County,1,Los Angeles International
+995,4502,Detroit Metropolitan Wayne County,1,Los Angeles International
+996,2528,Detroit Metropolitan Wayne County,1,Los Angeles International
+997,2528,Detroit Metropolitan Wayne County,1,Los Angeles International
+998,4786,Palm Springs Metropolitan Area,1,Los Angeles International
+999,4786,Palm Springs Metropolitan Area,1,Los Angeles International
+1000,7501,Austin-bergstrom International,1,Los Angeles International
+1001,7501,Austin-bergstrom International,1,Los Angeles International
+1002,9417,Austin-bergstrom International,1,Los Angeles International
+1003,9417,Austin-bergstrom International,1,Los Angeles International
+1004,2339,Austin-bergstrom International,1,Los Angeles International
+1005,2339,Austin-bergstrom International,1,Los Angeles International
+1006,2339,Austin-bergstrom International,1,Los Angeles International
+1007,291,Internacional,1,Los Angeles International
+1008,291,Internacional,1,Los Angeles International
+1009,8157,Internacional Benito Juarez,1,Los Angeles International
+1010,8157,Internacional Benito Juarez,1,Los Angeles International
+1011,7956,Internacional Benito Juarez,1,Los Angeles International
+1012,7956,Internacional Benito Juarez,1,Los Angeles International
+1013,646,Internacional Benito Juarez,1,Los Angeles International
+1014,646,Internacional Benito Juarez,1,Los Angeles International
+1015,9135,Tucson International Airport,1,Los Angeles International
+1016,9135,Tucson International Airport,1,Los Angeles International
+1017,3536,Tucson International Airport,1,Los Angeles International
+1018,7667,Tucson International Airport,1,Los Angeles International
+1019,7853,Jorge Chavez International,1,Los Angeles International
+1020,7966,Jorge Chavez International,1,Los Angeles International
+1021,2476,Jorge Chavez International,1,Los Angeles International
+1022,2476,Jorge Chavez International,1,Los Angeles International
+1023,968,Ted Stevens Anchorage International Airport,1,Los Angeles International
+1024,1903,Miami International Airport,1,Los Angeles International
+1025,9376,Miami International Airport,1,Los Angeles International
+1026,3132,Miami International Airport,1,Los Angeles International
+1027,1535,Miami International Airport,1,Los Angeles International
+1028,795,Nashville International,1,Los Angeles International
+1029,731,Chicago Ohare International,1,Los Angeles International
+1030,731,Chicago Ohare International,1,Los Angeles International
+1031,731,Chicago Ohare International,1,Los Angeles International
+1032,731,Chicago Ohare International,1,Los Angeles International
+1033,9173,Honolulu International,1,Los Angeles International
+1034,9560,Honolulu International,1,Los Angeles International
+1035,1870,Internacional Benito Juarez,1,Los Angeles International
+1036,7547,Dallas/Fort Worth International,1,Los Angeles International
+1037,7547,Dallas/Fort Worth International,1,Los Angeles International
+1038,1683,Dallas/Fort Worth International,1,Los Angeles International
+1039,1183,Dallas/Fort Worth International,1,Los Angeles International
+1040,1183,Dallas/Fort Worth International,1,Los Angeles International
+1041,162,Honolulu International,1,Los Angeles International
+1042,5002,Denver International,1,Los Angeles International
+1043,5002,Denver International,1,Los Angeles International
+1044,738,Nashville International,1,Los Angeles International
+1045,1044,Chicago Ohare International,1,Los Angeles International
+1046,3006,Boise Air Terminal/Gowen Field,1,Los Angeles International
+1047,3006,Boise Air Terminal/Gowen Field,1,Los Angeles International
+1048,7546,Boise Air Terminal/Gowen Field,1,Los Angeles International
+1049,9154,Boise Air Terminal/Gowen Field,1,Los Angeles International
+1050,3666,Boise Air Terminal/Gowen Field,1,Los Angeles International
+1051,254,Kahului,1,Los Angeles International
+1052,302,Austin-bergstrom International,1,Los Angeles International
+1053,302,Austin-bergstrom International,1,Los Angeles International
+1054,302,Austin-bergstrom International,1,Los Angeles International
+1055,3476,Austin-bergstrom International,1,Los Angeles International
+1056,3182,Austin-bergstrom International,1,Los Angeles International
+1057,7390,Austin-bergstrom International,1,Los Angeles International
+1058,2064,Austin-bergstrom International,1,Los Angeles International
+1059,6481,Austin-bergstrom International,1,Los Angeles International
+1060,445,Austin-bergstrom International,1,Los Angeles International
+1061,1573,Newark Liberty International,1,Los Angeles International
+1062,3006,Mc Carran International,1,Los Angeles International
+1063,3006,Mc Carran International,1,Los Angeles International
+1064,620,Ted Stevens Anchorage International Airport,1,Los Angeles International
+1065,1167,Minneapolis - St. Paul International,1,Los Angeles International
+1066,7550,Minneapolis - St. Paul International,1,Los Angeles International
+1067,995,Minneapolis - St. Paul International,1,Los Angeles International
+1068,2080,Dallas/Fort Worth International,1,Los Angeles International
+1069,6218,Orlando International,1,Los Angeles International
+1070,2224,Orlando International,1,Los Angeles International
+1071,2224,Orlando International,1,Los Angeles International
+1072,7031,Metropolitan Oak International,1,Los Angeles International
+1073,3792,Metropolitan Oak International,1,Los Angeles International
+1074,2272,San Francisco International,1,Los Angeles International
+1075,7184,San Francisco International,1,Los Angeles International
+1076,7270,Seattle-Tacoma International,1,Los Angeles International
+1077,7270,Seattle-Tacoma International,1,Los Angeles International
+1078,3076,Seattle-Tacoma International,1,Los Angeles International
+1079,3109,Seattle-Tacoma International,1,Los Angeles International
+1080,5071,Seattle-Tacoma International,1,Los Angeles International
+1081,1061,Miami International Airport,1,Los Angeles International
+1082,1061,Miami International Airport,1,Los Angeles International
+1083,885,Detroit Metropolitan Wayne County,1,Los Angeles International
+1084,885,Detroit Metropolitan Wayne County,1,Los Angeles International
+1085,1162,Memphis International,1,Los Angeles International
+1086,7432,Memphis International,1,Los Angeles International
+1087,2229,Memphis International,1,Los Angeles International
+1088,6920,Memphis International,1,Los Angeles International
+1089,438,Memphis International,1,Los Angeles International
+1090,8046,Internacional Benito Juarez,1,Los Angeles International
+1091,8046,Internacional Benito Juarez,1,Los Angeles International
+1092,8046,Internacional Benito Juarez,1,Los Angeles International
+1093,7942,Internacional Benito Juarez,1,Los Angeles International
+1094,7942,Internacional Benito Juarez,1,Los Angeles International
+1095,7942,Internacional Benito Juarez,1,Los Angeles International
+1096,648,Internacional Benito Juarez,1,Los Angeles International
+1097,648,Internacional Benito Juarez,1,Los Angeles International
+1098,146,Internacional Benito Juarez,1,Los Angeles International
+1099,5715,Denver International,1,Los Angeles International
+1100,5715,Denver International,1,Los Angeles International
+1101,9494,Denver International,1,Los Angeles International
+1102,9494,Denver International,1,Los Angeles International
+1103,1005,Denver International,1,Los Angeles International
+1104,3581,Sky Harbor International,1,Los Angeles International
+1105,4092,La Aurora,1,Los Angeles International
+1106,6916,Don Miguel Hidalgo y Costilla International,1,Los Angeles International
+1107,6916,Don Miguel Hidalgo y Costilla International,1,Los Angeles International
+1108,6916,Don Miguel Hidalgo y Costilla International,1,Los Angeles International
+1109,916,Don Miguel Hidalgo y Costilla International,1,Los Angeles International
+1110,916,Don Miguel Hidalgo y Costilla International,1,Los Angeles International
+1111,28,John F Kennedy International,1,Los Angeles International
+1112,1721,Charlotte Douglas,1,Los Angeles International
+1113,1721,Charlotte Douglas,1,Los Angeles International
+1114,980,Memphis International,1,Los Angeles International
+1115,326,Memphis International,1,Los Angeles International
+1116,326,Memphis International,1,Los Angeles International
+1117,326,Memphis International,1,Los Angeles International
+1118,326,Memphis International,1,Los Angeles International
+1119,3885,Mineta San Jose International Airport,1,Los Angeles International
+1120,3885,Mineta San Jose International Airport,1,Los Angeles International
+1121,1105,Mineta San Jose International Airport,1,Los Angeles International
+1122,1105,Mineta San Jose International Airport,1,Los Angeles International
+1123,7238,Mineta San Jose International Airport,1,Los Angeles International
+1124,7238,Mineta San Jose International Airport,1,Los Angeles International
+1125,4186,Mineta San Jose International Airport,1,Los Angeles International
+1126,4186,Mineta San Jose International Airport,1,Los Angeles International
+1127,7195,Mineta San Jose International Airport,1,Los Angeles International
+1128,7195,Mineta San Jose International Airport,1,Los Angeles International
+1129,9019,Mineta San Jose International Airport,1,Los Angeles International
+1130,9019,Mineta San Jose International Airport,1,Los Angeles International
+1131,3748,Mineta San Jose International Airport,1,Los Angeles International
+1132,3748,Mineta San Jose International Airport,1,Los Angeles International
+1133,6184,Salt Lake City International,1,Los Angeles International
+1134,1885,Salt Lake City International,1,Los Angeles International
+1135,1885,Salt Lake City International,1,Los Angeles International
+1136,7215,Salt Lake City International,1,Los Angeles International
+1137,7215,Salt Lake City International,1,Los Angeles International
+1138,2109,Salt Lake City International,1,Los Angeles International
+1139,2109,Salt Lake City International,1,Los Angeles International
+1140,2109,Salt Lake City International,1,Los Angeles International
+1141,4018,Portland International,1,Los Angeles International
+1142,4018,Portland International,1,Los Angeles International
+1143,1177,Portland International,1,Los Angeles International
+1144,7212,Portland International,1,Los Angeles International
+1145,4158,Portland International,1,Los Angeles International
+1146,4158,Portland International,1,Los Angeles International
+1147,4022,Portland International,1,Los Angeles International
+1148,4022,Portland International,1,Los Angeles International
+1149,6064,Portland International,1,Los Angeles International
+1150,6064,Portland International,1,Los Angeles International
+1151,1370,Portland International,1,Los Angeles International
+1152,1370,Portland International,1,Los Angeles International
+1153,3953,Tucson International Airport,1,Los Angeles International
+1154,7250,Tucson International Airport,1,Los Angeles International
+1155,7112,Tucson International Airport,1,Los Angeles International
+1156,9166,Tucson International Airport,1,Los Angeles International
+1157,1009,Denver International,1,Los Angeles International
+1158,6899,Hartsfield-jackson Atlanta International,1,Los Angeles International
+1159,2166,Hartsfield-jackson Atlanta International,1,Los Angeles International
+1160,1733,Mc Carran International,1,Los Angeles International
+1161,7479,Mc Carran International,1,Los Angeles International
+1162,4614,Mc Carran International,1,Los Angeles International
+1163,590,George Bush Intercontinental,1,Los Angeles International
+1164,3253,George Bush Intercontinental,1,Los Angeles International
+1165,3253,George Bush Intercontinental,1,Los Angeles International
+1166,2932,George Bush Intercontinental,1,Los Angeles International
+1167,2932,George Bush Intercontinental,1,Los Angeles International
+1168,2932,George Bush Intercontinental,1,Los Angeles International
+1169,7595,George Bush Intercontinental,1,Los Angeles International
+1170,7595,George Bush Intercontinental,1,Los Angeles International
+1171,4717,George Bush Intercontinental,1,Los Angeles International
+1172,4717,George Bush Intercontinental,1,Los Angeles International
+1173,243,George Bush Intercontinental,1,Los Angeles International
+1174,9512,George Bush Intercontinental,1,Los Angeles International
+1175,9512,George Bush Intercontinental,1,Los Angeles International
+1176,9645,George Bush Intercontinental,1,Los Angeles International
+1177,7237,George Bush Intercontinental,1,Los Angeles International
+1178,667,Washington Dulles International,1,Los Angeles International
+1179,9585,Washington Dulles International,1,Los Angeles International
+1180,9312,Washington Dulles International,1,Los Angeles International
+1181,554,Newark Liberty International,1,Los Angeles International
+1182,6265,Newark Liberty International,1,Los Angeles International
+1183,9537,Newark Liberty International,1,Los Angeles International
+1184,7042,Newark Liberty International,1,Los Angeles International
+1185,4404,Heathrow,1,Los Angeles International
+1186,4404,Heathrow,1,Los Angeles International
+1187,5352,Austin-bergstrom International,1,Los Angeles International
+1188,6768,Austin-bergstrom International,1,Los Angeles International
+1189,1165,Austin-bergstrom International,1,Los Angeles International
+1190,1165,Austin-bergstrom International,1,Los Angeles International
+1191,6921,Austin-bergstrom International,1,Los Angeles International
+1192,6921,Austin-bergstrom International,1,Los Angeles International
+1193,2066,Austin-bergstrom International,1,Los Angeles International
+1194,2066,Austin-bergstrom International,1,Los Angeles International
+1195,7995,Austin-bergstrom International,1,Los Angeles International
+1196,7995,Austin-bergstrom International,1,Los Angeles International
+1197,5486,Austin-bergstrom International,1,Los Angeles International
+1198,5486,Austin-bergstrom International,1,Los Angeles International
+1199,8899,Austin-bergstrom International,1,Los Angeles International
+1200,8899,Austin-bergstrom International,1,Los Angeles International
+1201,2869,Austin-bergstrom International,1,Los Angeles International
+1202,1187,Austin-bergstrom International,1,Los Angeles International
+1203,2339,Austin-bergstrom International,1,Los Angeles International
+1204,2339,Austin-bergstrom International,1,Los Angeles International
+1205,2339,Austin-bergstrom International,1,Los Angeles International
+1206,9417,Austin-bergstrom International,1,Los Angeles International
+1207,9417,Austin-bergstrom International,1,Los Angeles International
+1208,1494,Spokane International,1,Los Angeles International
+1209,3138,Spokane International,1,Los Angeles International
+1210,7554,Spokane International,1,Los Angeles International
+1211,2793,Narita International Airport,1,Los Angeles International
+1212,637,Cancún International,1,Los Angeles International
+1213,637,Cancún International,1,Los Angeles International
+1214,6281,Cancún International,1,Los Angeles International
+1215,6281,Cancún International,1,Los Angeles International
+1216,3598,Cancún International,1,Los Angeles International
+1217,3598,Cancún International,1,Los Angeles International
+1218,1138,La Aurora,1,Los Angeles International
+1219,5,Ronald Reagan Washington National Airport,1,Los Angeles International
+1220,1248,Ronald Reagan Washington National Airport,1,Los Angeles International
+1221,3647,Ronald Reagan Washington National Airport,1,Los Angeles International
+1222,6082,Ronald Reagan Washington National Airport,1,Los Angeles International
+1223,1275,Ronald Reagan Washington National Airport,1,Los Angeles International
+1224,1233,Ronald Reagan Washington National Airport,1,Los Angeles International
+1225,3275,Ronald Reagan Washington National Airport,1,Los Angeles International
+1226,7602,Ronald Reagan Washington National Airport,1,Los Angeles International
+1227,404,Seattle-Tacoma International,1,Los Angeles International
+1228,1269,El Salvador International,1,Los Angeles International
+1229,502,Portland International,1,Los Angeles International
+1230,6068,Portland International,1,Los Angeles International
+1231,3032,Portland International,1,Los Angeles International
+1232,1299,Honolulu International,1,Los Angeles International
+1233,363,Orlando International,1,Los Angeles International
+1234,363,Orlando International,1,Los Angeles International
+1235,2099,San Antonio International,1,Los Angeles International
+1236,8583,San Antonio International,1,Los Angeles International
+1237,2915,San Antonio International,1,Los Angeles International
+1238,6898,Sky Harbor International,1,Los Angeles International
+1239,6898,Sky Harbor International,1,Los Angeles International
+1240,4128,Sky Harbor International,1,Los Angeles International
+1241,4128,Sky Harbor International,1,Los Angeles International
+1242,3949,Sky Harbor International,1,Los Angeles International
+1243,3949,Sky Harbor International,1,Los Angeles International
+1244,582,Philadelphia International,1,Los Angeles International
+1245,582,Philadelphia International,1,Los Angeles International
+1246,582,Philadelphia International,1,Los Angeles International
+1247,1355,Philadelphia International,1,Los Angeles International
+1248,1355,Philadelphia International,1,Los Angeles International
+1249,345,Hartsfield-jackson Atlanta International,1,Los Angeles International
+1250,345,Hartsfield-jackson Atlanta International,1,Los Angeles International
+1251,6909,Hartsfield-jackson Atlanta International,1,Los Angeles International
+1252,6909,Hartsfield-jackson Atlanta International,1,Los Angeles International
+1253,2704,Cincinnati/Northern Kentucky,1,Los Angeles International
+1254,2704,Cincinnati/Northern Kentucky,1,Los Angeles International
+1255,8059,Cincinnati/Northern Kentucky,1,Los Angeles International
+1256,8059,Cincinnati/Northern Kentucky,1,Los Angeles International
+1257,2176,Cincinnati/Northern Kentucky,1,Los Angeles International
+1258,2176,Cincinnati/Northern Kentucky,1,Los Angeles International
+1259,1029,Cincinnati/Northern Kentucky,1,Los Angeles International
+1260,1029,Cincinnati/Northern Kentucky,1,Los Angeles International
+1261,646,Internacional Benito Juarez,1,Los Angeles International
+1262,646,Internacional Benito Juarez,1,Los Angeles International
+1263,7956,Internacional Benito Juarez,1,Los Angeles International
+1264,7956,Internacional Benito Juarez,1,Los Angeles International
+1265,8157,Internacional Benito Juarez,1,Los Angeles International
+1266,8157,Internacional Benito Juarez,1,Los Angeles International
+1267,2596,Memphis International,1,Los Angeles International
+1268,2512,Orlando International,1,Los Angeles International
+1269,2512,Orlando International,1,Los Angeles International
+1270,7746,Findel,1,Los Angeles International
+1271,491,Orlando International,1,Los Angeles International
+1272,491,Orlando International,1,Los Angeles International
+1273,2223,Orlando International,1,Los Angeles International
+1274,2223,Orlando International,1,Los Angeles International
+1275,2223,Orlando International,1,Los Angeles International
+1276,2801,Fort Lauderdale–Hollywood International,1,Los Angeles International
+1277,2801,Fort Lauderdale–Hollywood International,1,Los Angeles International
+1278,2801,Fort Lauderdale–Hollywood International,1,Los Angeles International
+1279,2339,Fort Lauderdale–Hollywood International,1,Los Angeles International
+1280,2339,Fort Lauderdale–Hollywood International,1,Los Angeles International
+1281,2339,Fort Lauderdale–Hollywood International,1,Los Angeles International
+1282,6569,Denver International,1,Los Angeles International
+1283,11,Seoul (Incheon),1,Los Angeles International
+1284,9042,Seoul (Incheon),1,Los Angeles International
+1285,8426,Seoul (Incheon),1,Los Angeles International
+1286,6704,Seoul (Incheon),1,Los Angeles International
+1287,603,Schiphol,1,Los Angeles International
+1288,8765,Ted Stevens Anchorage International Airport,1,Los Angeles International
+1289,7501,Austin-bergstrom International,1,Los Angeles International
+1290,7501,Austin-bergstrom International,1,Los Angeles International
+1291,2967,Tampa International,1,Los Angeles International
+1292,2967,Tampa International,1,Los Angeles International
+1293,2967,Tampa International,1,Los Angeles International
+1294,7825,Tampa International,1,Los Angeles International
+1295,7825,Tampa International,1,Los Angeles International
+1296,7825,Tampa International,1,Los Angeles International
+1297,7656,Tampa International,1,Los Angeles International
+1298,7656,Tampa International,1,Los Angeles International
+1299,7656,Tampa International,1,Los Angeles International
+1300,1068,Tampa International,1,Los Angeles International
+1301,1068,Tampa International,1,Los Angeles International
+1302,1068,Tampa International,1,Los Angeles International
+1303,7784,Chicago Ohare International,1,Los Angeles International
+1304,7784,Chicago Ohare International,1,Los Angeles International
+1305,5715,Denver International,1,Los Angeles International
+1306,5715,Denver International,1,Los Angeles International
+1307,9494,Denver International,1,Los Angeles International
+1308,9494,Denver International,1,Los Angeles International
+1309,4349,Chicago Ohare International,1,Los Angeles International
+1310,4349,Chicago Ohare International,1,Los Angeles International
+1311,4314,Chicago Ohare International,1,Los Angeles International
+1312,4314,Chicago Ohare International,1,Los Angeles International
+1313,9455,Chicago Ohare International,1,Los Angeles International
+1314,9455,Chicago Ohare International,1,Los Angeles International
+1315,1203,Miami International Airport,1,Los Angeles International
+1316,314,Miami International Airport,1,Los Angeles International
+1317,237,Midway,1,Los Angeles International
+1318,880,Hong Kong International,1,Los Angeles International
+1319,880,Hong Kong International,1,Los Angeles International
+1320,880,Hong Kong International,1,Los Angeles International
+1321,7519,Miami International Airport,1,Los Angeles International
+1322,7519,Miami International Airport,1,Los Angeles International
+1323,9382,Miami International Airport,1,Los Angeles International
+1324,9382,Miami International Airport,1,Los Angeles International
+1325,5367,Colorado Springs,1,Los Angeles International
+1326,7541,Colorado Springs,1,Los Angeles International
+1327,6521,Colorado Springs,1,Los Angeles International
+1328,2476,Colorado Springs,1,Los Angeles International
+1329,2476,Colorado Springs,1,Los Angeles International
+1330,471,Ted Stevens Anchorage International Airport,1,Los Angeles International
+1331,221,Shanghai Pudong International,1,Los Angeles International
+1332,221,Shanghai Pudong International,1,Los Angeles International
+1333,33,John F Kennedy International,1,Los Angeles International
+1334,582,Philadelphia International,1,Los Angeles International
+1335,582,Philadelphia International,1,Los Angeles International
+1336,582,Philadelphia International,1,Los Angeles International
+1337,4412,Dallas/Fort Worth International,1,Los Angeles International
+1338,4185,Dallas/Fort Worth International,1,Los Angeles International
+1339,2745,Dallas/Fort Worth International,1,Los Angeles International
+1340,7531,Sky Harbor International,1,Los Angeles International
+1341,8243,John F Kennedy International,1,Los Angeles International
+1342,2307,John F Kennedy International,1,Los Angeles International
+1343,3969,John F Kennedy International,1,Los Angeles International
+1344,1527,John F Kennedy International,1,Los Angeles International
+1345,2673,John F Kennedy International,1,Los Angeles International
+1346,3389,John F Kennedy International,1,Los Angeles International
+1347,3170,John F Kennedy International,1,Los Angeles International
+1348,3170,John F Kennedy International,1,Los Angeles International
+1349,3401,John F Kennedy International,1,Los Angeles International
+1350,4741,John F Kennedy International,1,Los Angeles International
+1351,8821,John F Kennedy International,1,Los Angeles International
+1352,3400,Mc Carran International,1,Los Angeles International
+1353,9135,Mc Carran International,1,Los Angeles International
+1354,9135,Mc Carran International,1,Los Angeles International
+1355,1157,Mc Carran International,1,Los Angeles International
+1356,1157,Mc Carran International,1,Los Angeles International
+1357,7424,Mc Carran International,1,Los Angeles International
+1358,1612,Mc Carran International,1,Los Angeles International
+1359,6756,Mc Carran International,1,Los Angeles International
+1360,4349,Chicago Ohare International,1,Los Angeles International
+1361,4349,Chicago Ohare International,1,Los Angeles International
+1362,1715,Chicago Ohare International,1,Los Angeles International
+1363,4314,Chicago Ohare International,1,Los Angeles International
+1364,4314,Chicago Ohare International,1,Los Angeles International
+1365,9455,Chicago Ohare International,1,Los Angeles International
+1366,9455,Chicago Ohare International,1,Los Angeles International
+1367,3102,Chicago Ohare International,1,Los Angeles International
+1368,7784,Chicago Ohare International,1,Los Angeles International
+1369,7784,Chicago Ohare International,1,Los Angeles International
+1370,1147,Chicago Ohare International,1,Los Angeles International
+1371,869,Dallas/Fort Worth International,1,Los Angeles International
+1372,869,Dallas/Fort Worth International,1,Los Angeles International
+1373,869,Dallas/Fort Worth International,1,Los Angeles International
+1374,869,Dallas/Fort Worth International,1,Los Angeles International
+1375,716,Ted Stevens Anchorage International Airport,1,Los Angeles International
+1376,716,Ted Stevens Anchorage International Airport,1,Los Angeles International
+1377,3191,Spokane International,1,Los Angeles International
+1378,3606,Kingsford Smith,1,Los Angeles International
+1379,3606,Kingsford Smith,1,Los Angeles International
+1380,3822,Kingsford Smith,1,Los Angeles International
+1381,3822,Kingsford Smith,1,Los Angeles International
+1382,108,Narita International Airport,1,Los Angeles International
+1383,1075,Narita International Airport,1,Los Angeles International
+1384,6053,Doha International,1,Los Angeles International
+1385,3515,Doha International,1,Los Angeles International
+1386,9735,Doha International,1,Los Angeles International
+1387,17,Seoul (Incheon),1,Los Angeles International
+1388,9044,Seoul (Incheon),1,Los Angeles International
+1389,9044,Seoul (Incheon),1,Los Angeles International
+1390,8428,Seoul (Incheon),1,Los Angeles International
+1391,8428,Seoul (Incheon),1,Los Angeles International
+1392,6702,Seoul (Incheon),1,Los Angeles International
+1393,6702,Seoul (Incheon),1,Los Angeles International
+1394,2795,Kingsford Smith,1,Los Angeles International
+1395,7165,Fuzhou,1,Los Angeles International
+1396,1026,Newark Liberty International,1,Los Angeles International
+1397,7481,Zhengzhou,1,Los Angeles International
+1398,6,Taiwan Taoyuan International (Chiang Kai Shek International),1,Los Angeles International
+1399,5156,Taiwan Taoyuan International (Chiang Kai Shek International),1,Los Angeles International
+1400,2841,Tullamarine,1,Los Angeles International
+1401,96,Seoul (Incheon),1,Los Angeles International
+1402,96,Seoul (Incheon),1,Los Angeles International
+1403,106,Narita International Airport,1,Los Angeles International
+1404,106,Narita International Airport,1,Los Angeles International
+1405,223,Shanghai Pudong International,1,Los Angeles International
+1406,7455,Shanghai Pudong International,1,Los Angeles International
+1407,6103,Seattle-Tacoma International,1,Los Angeles International
+1408,2269,Seattle-Tacoma International,1,Los Angeles International
+1409,2472,Seattle-Tacoma International,1,Los Angeles International
+1410,1303,Sky Harbor International,1,Los Angeles International
+1411,3524,Reno-Tahoe International,1,Los Angeles International
+1412,2294,Mc Carran International,1,Los Angeles International
+1413,9112,Mc Carran International,1,Los Angeles International
+1414,1565,Mc Carran International,1,Los Angeles International
+1415,6712,Mc Carran International,1,Los Angeles International
+1416,2410,Minneapolis - St. Paul International,1,Los Angeles International
+1417,4728,Honolulu International,1,Los Angeles International
+1418,7561,Honolulu International,1,Los Angeles International
+1419,7561,Honolulu International,1,Los Angeles International
+1420,3255,Honolulu International,1,Los Angeles International
+1421,5802,Honolulu International,1,Los Angeles International
+1422,7855,Honolulu International,1,Los Angeles International
+1423,2,Honolulu International,1,Los Angeles International
+1424,7002,Honolulu International,1,Los Angeles International
+1425,7513,Internacional Benito Juarez,1,Los Angeles International
+1426,2546,Internacional Benito Juarez,1,Los Angeles International
+1427,8046,Internacional Benito Juarez,1,Los Angeles International
+1428,8046,Internacional Benito Juarez,1,Los Angeles International
+1429,8046,Internacional Benito Juarez,1,Los Angeles International
+1430,7942,Internacional Benito Juarez,1,Los Angeles International
+1431,7942,Internacional Benito Juarez,1,Los Angeles International
+1432,7942,Internacional Benito Juarez,1,Los Angeles International
+1433,648,Internacional Benito Juarez,1,Los Angeles International
+1434,648,Internacional Benito Juarez,1,Los Angeles International
+1435,6926,Internacional Benito Juarez,1,Los Angeles International
+1436,926,Internacional Benito Juarez,1,Los Angeles International
+1437,3320,Boise Air Terminal/Gowen Field,1,Los Angeles International
+1438,441,Denver International,1,Los Angeles International
+1439,441,Denver International,1,Los Angeles International
+1440,2513,San Francisco International,1,Los Angeles International
+1441,1347,San Francisco International,1,Los Angeles International
+1442,3486,San Francisco International,1,Los Angeles International
+1443,3622,San Francisco International,1,Los Angeles International
+1444,9009,San Francisco International,1,Los Angeles International
+1445,1199,San Francisco International,1,Los Angeles International
+1446,7236,San Francisco International,1,Los Angeles International
+1447,1853,San Francisco International,1,Los Angeles International
+1448,731,Chicago Ohare International,1,Los Angeles International
+1449,731,Chicago Ohare International,1,Los Angeles International
+1450,731,Chicago Ohare International,1,Los Angeles International
+1451,731,Chicago Ohare International,1,Los Angeles International
+1452,7401,Zhengzhou,1,Los Angeles International
+1453,96,Seoul (Incheon),1,Los Angeles International
+1454,96,Seoul (Incheon),1,Los Angeles International
+1455,3068,Portland International,1,Los Angeles International
+1456,3068,Portland International,1,Los Angeles International
+1457,3068,Portland International,1,Los Angeles International
+1458,3315,Portland International,1,Los Angeles International
+1459,3315,Portland International,1,Los Angeles International
+1460,3315,Portland International,1,Los Angeles International
+1461,869,Dallas/Fort Worth International,1,Los Angeles International
+1462,869,Dallas/Fort Worth International,1,Los Angeles International
+1463,869,Dallas/Fort Worth International,1,Los Angeles International
+1464,869,Dallas/Fort Worth International,1,Los Angeles International
+1465,1085,Dallas/Fort Worth International,1,Los Angeles International
+1466,1085,Dallas/Fort Worth International,1,Los Angeles International
+1467,2559,Portland International,1,Los Angeles International
+1468,2323,Love Field,1,Los Angeles International
+1469,1373,Love Field,1,Los Angeles International
+1470,330,Merced Municipal Airport,1,Los Angeles International
+1471,867,Dallas/Fort Worth International,1,Los Angeles International
+1472,2325,Dallas/Fort Worth International,1,Los Angeles International
+1473,913,Kansas City International Airport,1,Los Angeles International
+1474,952,Dallas/Fort Worth International,1,Los Angeles International
+1475,6634,Dallas/Fort Worth International,1,Los Angeles International
+1476,2072,Dallas/Fort Worth International,1,Los Angeles International
+1477,7254,Dallas/Fort Worth International,1,Los Angeles International
+1478,1559,Denver International,1,Los Angeles International
+1479,7973,Reno-Tahoe International,1,Los Angeles International
+1480,7973,Reno-Tahoe International,1,Los Angeles International
+1481,6928,Reno-Tahoe International,1,Los Angeles International
+1482,6928,Reno-Tahoe International,1,Los Angeles International
+1483,453,Ronald Reagan Washington National Airport,1,Los Angeles International
+1484,1231,Ronald Reagan Washington National Airport,1,Los Angeles International
+1485,4300,Ronald Reagan Washington National Airport,1,Los Angeles International
+1486,4300,Ronald Reagan Washington National Airport,1,Los Angeles International
+1487,317,Ronald Reagan Washington National Airport,1,Los Angeles International
+1488,326,John F Kennedy International,1,Los Angeles International
+1489,326,John F Kennedy International,1,Los Angeles International
+1490,326,John F Kennedy International,1,Los Angeles International
+1491,326,John F Kennedy International,1,Los Angeles International
+1492,515,Hartsfield-jackson Atlanta International,1,Los Angeles International
+1493,515,Hartsfield-jackson Atlanta International,1,Los Angeles International
+1494,515,Hartsfield-jackson Atlanta International,1,Los Angeles International
+1495,6507,Heathrow,1,Los Angeles International
+1496,6507,Heathrow,1,Los Angeles International
+1497,4265,Heathrow,1,Los Angeles International
+1498,4265,Heathrow,1,Los Angeles International
+1499,8006,Heathrow,1,Los Angeles International
+1500,8006,Heathrow,1,Los Angeles International
+1501,2665,Heathrow,1,Los Angeles International
+1502,2665,Heathrow,1,Los Angeles International
+1503,269,Heathrow,1,Los Angeles International
+1504,269,Heathrow,1,Los Angeles International
+1505,269,Heathrow,1,Los Angeles International
+1506,3877,Fresno Air Terminal Airport,1,Los Angeles International
+1507,3877,Fresno Air Terminal Airport,1,Los Angeles International
+1508,3877,Fresno Air Terminal Airport,1,Los Angeles International
+1509,2173,Mc Carran International,1,Los Angeles International
+1510,2165,Mc Carran International,1,Los Angeles International
+1511,2165,Mc Carran International,1,Los Angeles International
+1512,1821,Mineta San Jose International Airport,1,Los Angeles International
+1513,1821,Mineta San Jose International Airport,1,Los Angeles International
+1514,9253,San Francisco International,1,Los Angeles International
+1515,9253,San Francisco International,1,Los Angeles International
+1516,9253,San Francisco International,1,Los Angeles International
+1517,1263,San Francisco International,1,Los Angeles International
+1518,1263,San Francisco International,1,Los Angeles International
+1519,1263,San Francisco International,1,Los Angeles International
+1520,1263,San Francisco International,1,Los Angeles International
+1521,7583,Sky Harbor International,1,Los Angeles International
+1522,7583,Sky Harbor International,1,Los Angeles International
+1523,7583,Sky Harbor International,1,Los Angeles International
+1524,9198,Sky Harbor International,1,Los Angeles International
+1525,9198,Sky Harbor International,1,Los Angeles International
+1526,9198,Sky Harbor International,1,Los Angeles International
+1527,1293,Sky Harbor International,1,Los Angeles International
+1528,1293,Sky Harbor International,1,Los Angeles International
+1529,1293,Sky Harbor International,1,Los Angeles International
+1530,413,Sky Harbor International,1,Los Angeles International
+1531,413,Sky Harbor International,1,Los Angeles International
+1532,413,Sky Harbor International,1,Los Angeles International
+1533,7735,Taiwan Taoyuan International (Chiang Kai Shek International),1,Los Angeles International
+1534,7735,Taiwan Taoyuan International (Chiang Kai Shek International),1,Los Angeles International
+1535,8,Taiwan Taoyuan International (Chiang Kai Shek International),1,Los Angeles International
+1536,8,Taiwan Taoyuan International (Chiang Kai Shek International),1,Los Angeles International
+1537,8099,Orlando International,1,Los Angeles International
+1538,8099,Orlando International,1,Los Angeles International
+1539,9013,Seoul (Incheon),1,Los Angeles International
+1540,1756,Minneapolis - St. Paul International,1,Los Angeles International
+1541,437,Detroit Metropolitan Wayne County,1,Los Angeles International
+1542,437,Detroit Metropolitan Wayne County,1,Los Angeles International
+1543,2194,Boise Air Terminal/Gowen Field,1,Los Angeles International
+1544,2194,Boise Air Terminal/Gowen Field,1,Los Angeles International
+1545,2194,Boise Air Terminal/Gowen Field,1,Los Angeles International
+1546,4641,Boise Air Terminal/Gowen Field,1,Los Angeles International
+1547,4641,Boise Air Terminal/Gowen Field,1,Los Angeles International
+1548,4641,Boise Air Terminal/Gowen Field,1,Los Angeles International
+1549,7585,Reno-Tahoe International,1,Los Angeles International
+1550,7585,Reno-Tahoe International,1,Los Angeles International
+1551,7585,Reno-Tahoe International,1,Los Angeles International
+1552,9244,Reno-Tahoe International,1,Los Angeles International
+1553,9244,Reno-Tahoe International,1,Los Angeles International
+1554,9244,Reno-Tahoe International,1,Los Angeles International
+1555,3122,Reno-Tahoe International,1,Los Angeles International
+1556,3122,Reno-Tahoe International,1,Los Angeles International
+1557,3122,Reno-Tahoe International,1,Los Angeles International
+1558,661,Chicago Ohare International,1,Los Angeles International
+1559,661,Chicago Ohare International,1,Los Angeles International
+1560,316,Provo,1,Los Angeles International
+1561,316,Provo,1,Los Angeles International
+1562,253,Sacramento International,1,Los Angeles International
+1563,253,Sacramento International,1,Los Angeles International
+1564,803,Imperial County,1,Los Angeles International
+1565,803,Imperial County,1,Los Angeles International
+1566,803,Imperial County,1,Los Angeles International
+1567,365,Hartsfield-jackson Atlanta International,1,Los Angeles International
+1568,365,Hartsfield-jackson Atlanta International,1,Los Angeles International
+1569,365,Hartsfield-jackson Atlanta International,1,Los Angeles International
+1570,942,Austin-bergstrom International,1,Los Angeles International
+1571,283,Daniel Oduber International,1,Los Angeles International
+1572,283,Daniel Oduber International,1,Los Angeles International
+1573,283,Daniel Oduber International,1,Los Angeles International
+1574,3698,San Francisco International,1,Los Angeles International
+1575,3432,San Francisco International,1,Los Angeles International
+1576,1473,Newark Liberty International,1,Los Angeles International
+1577,3947,Mc Carran International,1,Los Angeles International
+1578,3947,Mc Carran International,1,Los Angeles International
+1579,2062,Snohomish County - Paine Field,1,Los Angeles International
+1580,2062,Snohomish County - Paine Field,1,Los Angeles International
+1581,2062,Snohomish County - Paine Field,1,Los Angeles International
+1582,2951,Sky Harbor International,1,Los Angeles International
+1583,2951,Sky Harbor International,1,Los Angeles International
+1584,7982,Haneda Airport,1,Los Angeles International
+1585,7982,Haneda Airport,1,Los Angeles International
+1586,9653,Heathrow,1,Los Angeles International
+1587,7659,Heathrow,1,Los Angeles International
+1588,4404,Heathrow,1,Los Angeles International
+1589,4404,Heathrow,1,Los Angeles International
+1590,4809,Heathrow,1,Los Angeles International
+1591,2523,Heathrow,1,Los Angeles International
+1592,2523,Heathrow,1,Los Angeles International
+1593,7604,Snohomish County - Paine Field,1,Los Angeles International
+1594,9332,Snohomish County - Paine Field,1,Los Angeles International
+1595,8761,Ted Stevens Anchorage International Airport,1,Los Angeles International
+1596,3456,San Francisco International,1,Los Angeles International
+1597,7270,San Francisco International,1,Los Angeles International
+1598,7270,San Francisco International,1,Los Angeles International
+1599,4977,Kona International Airport,1,Los Angeles International
+1600,2512,Sacramento International,1,Los Angeles International
+1601,2512,Sacramento International,1,Los Angeles International
+1602,170,Haneda Airport,1,Los Angeles International
+1603,1467,Denver International,1,Los Angeles International
+1604,204,Honolulu International,1,Los Angeles International
+1605,204,Honolulu International,1,Los Angeles International
+1606,8850,San Diego International Airport,1,Los Angeles International
+1607,5002,Denver International,1,Los Angeles International
+1608,5002,Denver International,1,Los Angeles International
+1609,2005,Denver International,1,Los Angeles International
+1610,9492,Denver International,1,Los Angeles International
+1611,6255,Denver International,1,Los Angeles International
+1612,2254,Dallas/Fort Worth International,1,Los Angeles International
+1613,363,Orlando International,1,Los Angeles International
+1614,363,Orlando International,1,Los Angeles International
+1615,1645,Heathrow,1,Los Angeles International
+1616,1645,Heathrow,1,Los Angeles International
+1617,5068,Heathrow,1,Los Angeles International
+1618,5068,Heathrow,1,Los Angeles International
+1619,102,San Francisco International,1,Los Angeles International
+1620,3440,San Francisco International,1,Los Angeles International
+1621,9651,George Bush Intercontinental,1,Los Angeles International
+1622,9512,George Bush Intercontinental,1,Los Angeles International
+1623,9512,George Bush Intercontinental,1,Los Angeles International
+1624,1820,San Francisco International,1,Los Angeles International
+1625,2109,Salt Lake City International,1,Los Angeles International
+1626,2109,Salt Lake City International,1,Los Angeles International
+1627,2109,Salt Lake City International,1,Los Angeles International
+1628,3360,Kahului,1,Los Angeles International
+1629,5403,Kahului,1,Los Angeles International
+1630,7079,Sky Harbor International,1,Los Angeles International
+1631,1765,William P Hobby,1,Los Angeles International
+1632,7329,Logan International,1,Los Angeles International
+1633,3071,Logan International,1,Los Angeles International
+1634,3678,Cancún International,1,Los Angeles International
+1635,9417,John F Kennedy International,1,Los Angeles International
+1636,9417,John F Kennedy International,1,Los Angeles International
+1637,3397,Denver International,1,Los Angeles International
+1638,3698,Cincinnati/Northern Kentucky,1,Los Angeles International
+1639,2512,Cincinnati/Northern Kentucky,1,Los Angeles International
+1640,2512,Cincinnati/Northern Kentucky,1,Los Angeles International
+1641,3486,Pierre Elliott Trudeau International,1,Los Angeles International
+1642,3598,Yeager,1,Los Angeles International
+1643,3598,Yeager,1,Los Angeles International
+1644,404,Cincinnati/Northern Kentucky,1,Los Angeles International
+1645,952,International,1,Los Angeles International
+1646,5651,Sangster International,1,Los Angeles International
+1647,4905,Central Illinois Regional Airport at Bloomington-Normal,1,Los Angeles International
+1648,5409,Lovell Field,1,Los Angeles International
+1649,2546,Albemarle,1,Los Angeles International
+1650,6399,Albemarle,1,Los Angeles International
+1651,6399,Albemarle,1,Los Angeles International
+1652,5409,Lovell Field,1,Los Angeles International
+1653,4786,Asheville Regional Airport,1,Los Angeles International
+1654,4786,Asheville Regional Airport,1,Los Angeles International
+1655,2041,Miami International Airport,1,Los Angeles International
+1656,2272,Miami International Airport,1,Los Angeles International
+1657,6916,Greenville Spartanburg International Airport,1,Los Angeles International
+1658,6916,Greenville Spartanburg International Airport,1,Los Angeles International
+1659,6916,Greenville Spartanburg International Airport,1,Los Angeles International
+1660,2272,Sarasota/Bradenton International,1,Los Angeles International
+1661,3809,International Jetport,1,Los Angeles International
+1662,2062,Melbourne International Airport,1,Los Angeles International
+1663,2062,Melbourne International Airport,1,Los Angeles International
+1664,2062,Melbourne International Airport,1,Los Angeles International
+1665,3624,Heathrow,1,Los Angeles International
+1666,2798,Albemarle,1,Los Angeles International
+1667,3581,Ronald Reagan Washington National Airport,1,Los Angeles International
+1668,6911,Dothan Airport,1,Los Angeles International
+1669,2272,Municipal/Baer Field,1,Los Angeles International
+1670,6569,Municipal/Baer Field,1,Los Angeles International
+1671,2932,Dane County Regional,1,Los Angeles International
+1672,2932,Dane County Regional,1,Los Angeles International
+1673,2932,Dane County Regional,1,Los Angeles International
+1674,980,Dallas/Fort Worth International,1,Los Angeles International
+1675,952,International,1,Los Angeles International
+1676,3076,Louisville International (Standiford Field),1,Los Angeles International
+1677,2272,Sarasota/Bradenton International,1,Los Angeles International
+1678,3809,International Jetport,1,Los Angeles International
+1679,3792,Lovell Field,1,Los Angeles International
+1680,3877,Detroit Metropolitan Wayne County,1,Los Angeles International
+1681,3877,Detroit Metropolitan Wayne County,1,Los Angeles International
+1682,3877,Detroit Metropolitan Wayne County,1,Los Angeles International
+1683,6928,George Bush Intercontinental,1,Los Angeles International
+1684,6928,George Bush Intercontinental,1,Los Angeles International
+1685,3020,Newark Liberty International,1,Los Angeles International
+1686,7237,Frankfurt International Airport,1,Los Angeles International
+1687,3748,Adams Field Airport,1,Los Angeles International
+1688,3748,Adams Field Airport,1,Los Angeles International
+1689,2269,Denver International,1,Los Angeles International
+1690,2841,Municipal,1,Los Angeles International
+1691,6886,NW Florida Beaches Int,1,Los Angeles International
+1692,1496,International,1,Los Angeles International
+1693,1527,Logan International,1,Los Angeles International
+1694,1336,Eglin AFB,1,Los Angeles International
+1695,6899,Savannah/Hilton Head,1,Los Angeles International
+1696,3877,Detroit Metropolitan Wayne County,1,Los Angeles International
+1697,3877,Detroit Metropolitan Wayne County,1,Los Angeles International
+1698,3877,Detroit Metropolitan Wayne County,1,Los Angeles International
+1699,2272,Sarasota/Bradenton International,1,Los Angeles International
+1700,3809,International Jetport,1,Los Angeles International
+1701,4703,Dallas/Fort Worth International,1,Los Angeles International
+1702,4703,Dallas/Fort Worth International,1,Los Angeles International
+1703,554,San Francisco International,1,Los Angeles International
+1704,1765,William P Hobby,1,Los Angeles International
+1705,3524,Dallas/Fort Worth International,1,Los Angeles International
+1706,3496,Piedmont Triad International,1,Los Angeles International
+1707,5009,Austin-straubel Field,1,Los Angeles International
+1708,5009,Austin-straubel Field,1,Los Angeles International
+1709,3076,Louisville International (Standiford Field),1,Los Angeles International
+1710,2387,John F Kennedy International,1,Los Angeles International

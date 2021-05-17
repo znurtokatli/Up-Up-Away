@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+        crossorigin="anonymous">
+    <title>Flight Dashboard</title>
+</head>
+<body>
+    <nav class = "navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="/">
+            <img src="https://i.pinimg.com/originals/e9/52/83/e95283dd48b149ee4815cc3a08f0936c.jpg" width="50" height="50" alt="" >
+        </a>
+        <button class = 'navbar-toggler' type = "button" data-toggle = "collapse" data-target = "#navbar">
+            <span class = "navbar-toggler-icon"></span>
+        </button>
+    <div class = "collapse navbar-collapse" id = "navbar">
+        <div class="navbar-nav">
+            <a class = "nav-item nav-link" id = "home" href="/">Home</a>
+            <a class = "nav-item nav-link" id = "graphic1" href="/chart1">Bar Chart</a>
+            <a class = "nav-item nav-link" id = "graphic2" href="/chart2">Scatter Chart</a>
+            <a class = "nav-item nav-link" id = "graphic3" href="/chart3">Map</a>
+        </div>
+    </div>
+    </nav>
+<div class='container' align='center' style="margin: auto;">
+    <h1> Welcome To Up, Up, Away App!</h1>
+
+    <br>
+
+    <!-- 
+    <button type="button" class="btn btn-dark" onclick="update('flight_count_atl')">Atlanta</button>
+    <button type="button" class="btn btn-dark" onclick="update('flight_count_lax')">Los Angeles</button>
+    <br>
+    <br>
+    <br> Add 2 buttons -->
+ 
+    
+</div>
+
+<div class='container-fluid' id="my_dataviz" ></div>
+     
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+    <script src="https://d3js.org/d3.v4.js"></script>
+    <!--<script type="text/javascript" src="../static/index.js"></script> -->
+
+    
+</body>
+</html>

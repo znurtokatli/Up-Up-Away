@@ -1,0 +1,73 @@
+airport,flight_type,dep_airport,City,state,country,dep_airport_iata,arr_airport,arr_airport_iata
+Hartsfield-jackson Atlanta International,ARRIVAL,Dallas/Fort Worth International,Dallas/Fort Worth,TX,USA,DFW,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,Boise Air Terminal/Gowen Field,Boise,ID,USA,BOI,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,Boise Air Terminal/Gowen Field,Boise,ID,USA,BOI,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,George Bush Intercontinental,Houston,TX,USA,IAH,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,Seattle-Tacoma International,Seattle,WA,USA,SEA,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,Seattle-Tacoma International,Seattle,WA,USA,SEA,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,Metropolitan Oak International,Oakland,CA,USA,OAK,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,Manzanillo,Manzanillo,,Mexico,ZLO,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,Love Field,Dallas,TX,USA,DAL,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,Denver International,Denver,CO,USA,DEN,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,Dallas/Fort Worth International,Dallas/Fort Worth,TX,USA,DFW,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,Boise Air Terminal/Gowen Field,Boise,ID,USA,IAH,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,George Bush Intercontinental,Houston,TX,USA,IAH,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,Seattle-Tacoma International,Seattle,WA,USA,SEA,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,Seattle-Tacoma International,Seattle,WA,USA,SEA,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,Mineta San Jose International Airport,San Jose,CA,USA,SJC,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,Mineta San Jose International Airport,San Jose,CA,USA,SJC,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,Mineta San Jose International Airport,San Jose,CA,USA,SJC,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,Sky Harbor International,Phoenix,AZ,USA,PHX,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,Sky Harbor International,Phoenix,AZ,USA,PHX,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,Haneda Airport,Tokyo,,Japan,HND,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,El Salvador International,San Luis Talpa,,El Salvador,SAL,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,El Salvador International,San Luis Talpa,,El Salvador,SAL,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,San Diego International Airport,Cockburn,,Bahamas,RCY,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,Franz Josef Strauss,Munich,,Germany,MUC,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,Franz Josef Strauss,Munich,,Germany,MUC,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,Fresno Air Terminal Airport,Fresno,CA,USA,FAT,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,Fresno Air Terminal Airport,Fresno,CA,USA,FAT,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,Nashville International,Nashville,TN,USA,BNA,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,Nashville International,Nashville,TN,USA,BNA,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,Nashville International,Nashville,TN,USA,BNA,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,Nashville International,Nashville,TN,USA,BNA,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,Taiwan Taoyuan International (Chiang Kai Shek International),Taipei, ,Taiwan,TPE,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,Taiwan Taoyuan International (Chiang Kai Shek International),Taipei, ,Taiwan,TPE,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,Taiwan Taoyuan International (Chiang Kai Shek International),Taipei, ,Taiwan,TPE,Hartsfield-jackson Atlanta International,ATL
+Hartsfield-jackson Atlanta International,ARRIVAL,Raleigh-durham International Airport,Raleigh,NC,USA,RDA,Hartsfield-jackson Atlanta International,ATL
+Los Angeles International Airport,ARRIVAL,Dallas/Fort Worth International,Dallas/Fort Worth,TX,USA,DFW,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,Boise Air Terminal/Gowen Field,Boise,ID,USA,BOI,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,Boise Air Terminal/Gowen Field,Boise,ID,USA,BOI,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,George Bush Intercontinental,Houston,TX,USA,IAH,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,Seattle-Tacoma International,Seattle,WA,USA,SEA,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,Seattle-Tacoma International,Seattle,WA,USA,SEA,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,Metropolitan Oak International,Oakland,CA,USA,OAK,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,Manzanillo,Manzanillo,,Mexico,ZLO,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,Love Field,Dallas,TX,USA,DAL,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,Denver International,Denver,CO,USA,DEN,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,Dallas/Fort Worth International,Dallas/Fort Worth,TX,USA,DFW,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,Boise Air Terminal/Gowen Field,Boise,ID,USA,IAH,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,George Bush Intercontinental,Houston,TX,USA,IAH,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,Seattle-Tacoma International,Seattle,WA,USA,SEA,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,Seattle-Tacoma International,Seattle,WA,USA,SEA,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,Mineta San Jose International Airport,San Jose,CA,USA,SJC,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,Mineta San Jose International Airport,San Jose,CA,USA,SJC,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,Mineta San Jose International Airport,San Jose,CA,USA,SJC,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,Sky Harbor International,Phoenix,AZ,USA,PHX,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,Sky Harbor International,Phoenix,AZ,USA,PHX,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,Haneda Airport,Tokyo,,Japan,HND,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,El Salvador International,San Luis Talpa,,El Salvador,SAL,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,El Salvador International,San Luis Talpa,,El Salvador,SAL,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,San Diego International Airport,Cockburn,,Bahamas,RCY,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,Franz Josef Strauss,Munich,,Germany,MUC,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,Franz Josef Strauss,Munich,,Germany,MUC,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,Fresno Air Terminal Airport,Fresno,CA,USA,FAT,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,Fresno Air Terminal Airport,Fresno,CA,USA,FAT,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,Nashville International,Nashville,TN,USA,BNA,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,Nashville International,Nashville,TN,USA,BNA,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,Nashville International,Nashville,TN,USA,BNA,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,Nashville International,Nashville,TN,USA,BNA,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,Taiwan Taoyuan International (Chiang Kai Shek International),Taipei, ,Taiwan,TPE,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,Taiwan Taoyuan International (Chiang Kai Shek International),Taipei, ,Taiwan,TPE,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,Taiwan Taoyuan International (Chiang Kai Shek International),Taipei, ,Taiwan,TPE,Los Angeles International Airport,LAX
+Los Angeles International Airport,ARRIVAL,Raleigh-durham International Airport,Raleigh,NC,USA,RDA,Los Angeles International Airport,LAX

@@ -1,0 +1,30 @@
+/* remove default margin and padding from body */
+body {
+    padding: 0;
+    margin: 0;
+  }
+  
+  /* set map, body, and html to 100% of the screen size */
+  #mapid,
+  body,
+  html {
+    height: 100%;
+  }
+  .info {
+    padding: 1px 10px;
+    background: white;
+    border-radius: 5px;
+  }
+  .legend {
+    line-height: 25 px;
+    color: black;
+  }
+  .legend i {
+    width: 20px;
+    height: 20px;
+    float:  left;
+    margin-right: 10px;
+    margin-left: 10px;
+    opacity: 0.75;
+}
+ 

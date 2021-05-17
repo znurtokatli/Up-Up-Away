@@ -1,0 +1,241 @@
+departure_to_atl,departure_count_atl,arrival_airport_atl,iata_atl,atl_rank,departure_to_lax,departure_count_lax,arrival_airport_lax,iata_lax,lax_rank
+Dallas/Fort Worth International,1043,Hartsfield-jackson Atlanta International,ATL,1,Manzanillo,12,Los Angeles International,LAX,1
+Chicago Ohare International,990,Hartsfield-jackson Atlanta International,ATL,2,Metropolitan Oak International,232,Los Angeles International,LAX,2
+Miami International Airport,946,Hartsfield-jackson Atlanta International,ATL,3,Love Field,320,Los Angeles International,LAX,3
+Ronald Reagan Washington National Airport,825,Hartsfield-jackson Atlanta International,ATL,4,Denver International,1905,Los Angeles International,LAX,4
+Southwest Florida International,764,Hartsfield-jackson Atlanta International,ATL,5,Dallas/Fort Worth International,2644,Los Angeles International,LAX,5
+Orlando International,728,Hartsfield-jackson Atlanta International,ATL,6,Boise Air Terminal/Gowen Field,809,Los Angeles International,LAX,6
+Gerald R. Ford International,652,Hartsfield-jackson Atlanta International,ATL,7,George Bush Intercontinental,1598,Los Angeles International,LAX,7
+Logan International,639,Hartsfield-jackson Atlanta International,ATL,8,Seattle-Tacoma International,1251,Los Angeles International,LAX,8
+John F Kennedy International,618,Hartsfield-jackson Atlanta International,ATL,9,Mineta San Jose International Airport,561,Los Angeles International,LAX,9
+San Francisco International,603,Hartsfield-jackson Atlanta International,ATL,10,Sacramento International,857,Los Angeles International,LAX,10
+Mc Carran International,589,Hartsfield-jackson Atlanta International,ATL,11,Salt Lake City International,1364,Los Angeles International,LAX,11
+Piedmont Triad International,572,Hartsfield-jackson Atlanta International,ATL,12,John F Kennedy International,2086,Los Angeles International,LAX,12
+Newark Liberty International,556,Hartsfield-jackson Atlanta International,ATL,13,Portland International,940,Los Angeles International,LAX,13
+Cincinnati/Northern Kentucky,548,Hartsfield-jackson Atlanta International,ATL,14,San Diego International Airport,344,Los Angeles International,LAX,14
+International Jetport,535,Hartsfield-jackson Atlanta International,ATL,15,Honolulu International,2616,Los Angeles International,LAX,15
+Raleigh-durham International Airport,522,Hartsfield-jackson Atlanta International,ATL,16,Chicago Ohare International,2067,Los Angeles International,LAX,16
+Tampa International,500,Hartsfield-jackson Atlanta International,ATL,17,Sky Harbor International,1271,Los Angeles International,LAX,17
+Los Angeles International,489,Hartsfield-jackson Atlanta International,ATL,18,San Francisco International,1924,Los Angeles International,LAX,18
+Louisville International (Standiford Field),488,Hartsfield-jackson Atlanta International,ATL,19,Hartsfield-jackson Atlanta International,1200,Los Angeles International,LAX,19
+Louis Armstrong New Orléans International Airport,473,Hartsfield-jackson Atlanta International,ATL,20,Mc Carran International,1924,Los Angeles International,LAX,20
+Denver International,465,Hartsfield-jackson Atlanta International,ATL,21,Schiphol,470,Los Angeles International,LAX,21
+Seattle-Tacoma International,465,Hartsfield-jackson Atlanta International,ATL,22,Detroit Metropolitan Wayne County,467,Los Angeles International,LAX,22
+Fort Lauderdale–Hollywood International,452,Hartsfield-jackson Atlanta International,ATL,23,Don Miguel Hidalgo y Costilla International,542,Los Angeles International,LAX,23
+Greenville Spartanburg International Airport,449,Hartsfield-jackson Atlanta International,ATL,24,Charlotte Douglas,474,Los Angeles International,LAX,24
+James Cox Dayton International,446,Hartsfield-jackson Atlanta International,ATL,25,Ninoy Aquino International,23,Los Angeles International,LAX,25
+Jacksonville,436,Hartsfield-jackson Atlanta International,ATL,26,Internacional Benito Juarez,1216,Los Angeles International,LAX,26
+Richmond International Airport,436,Hartsfield-jackson Atlanta International,ATL,27,Haneda Airport,246,Los Angeles International,LAX,27
+Memphis International,429,Hartsfield-jackson Atlanta International,ATL,28,El Salvador International,390,Los Angeles International,LAX,28
+Mc Ghee Tyson,427,Hartsfield-jackson Atlanta International,ATL,29,Guangzhou Baiyun International,47,Los Angeles International,LAX,29
+Albert J Ellis,423,Hartsfield-jackson Atlanta International,ATL,30,Austin-bergstrom International,988,Los Angeles International,LAX,30
+Philadelphia International,422,Hartsfield-jackson Atlanta International,ATL,31,Heathrow,709,Los Angeles International,LAX,31
+Sky Harbor International,421,Hartsfield-jackson Atlanta International,ATL,32,Palm Springs Metropolitan Area,236,Los Angeles International,LAX,32
+International,418,Hartsfield-jackson Atlanta International,ATL,33,Franz Josef Strauss,17,Los Angeles International,LAX,33
+Austin-bergstrom International,417,Hartsfield-jackson Atlanta International,ATL,34,Fresno Air Terminal Airport,332,Los Angeles International,LAX,34
+Nashville International,393,Hartsfield-jackson Atlanta International,ATL,35,Nashville International,1174,Los Angeles International,LAX,35
+Melbourne International Airport,392,Hartsfield-jackson Atlanta International,ATL,36,Logan International,554,Los Angeles International,LAX,36
+Norfolk International Airport,388,Hartsfield-jackson Atlanta International,ATL,37,Orlando International,1239,Los Angeles International,LAX,37
+Charlotte Douglas,378,Hartsfield-jackson Atlanta International,ATL,38,Ataturk Airport,451,Los Angeles International,LAX,38
+Roanoke Regional Airport,362,Hartsfield-jackson Atlanta International,ATL,39,William P Hobby,170,Los Angeles International,LAX,39
+Minneapolis - St. Paul International,360,Hartsfield-jackson Atlanta International,ATL,40,Beijing Capital International,83,Los Angeles International,LAX,40
+Internacional Benito Juarez,358,Hartsfield-jackson Atlanta International,ATL,41,Albuquerque International,582,Los Angeles International,LAX,41
+Lovell Field,356,Hartsfield-jackson Atlanta International,ATL,42,Taiwan Taoyuan International (Chiang Kai Shek International),628,Los Angeles International,LAX,42
+Austin-straubel Field,350,Hartsfield-jackson Atlanta International,ATL,43,Raleigh-durham International Airport,310,Los Angeles International,LAX,43
+Savannah/Hilton Head,330,Hartsfield-jackson Atlanta International,ATL,44,Narita International Airport,355,Los Angeles International,LAX,44
+Seoul (Incheon),329,Hartsfield-jackson Atlanta International,ATL,45,Jorge Chavez International,119,Los Angeles International,LAX,45
+Salt Lake City International,327,Hartsfield-jackson Atlanta International,ATL,46,Shanghai Pudong International,955,Los Angeles International,LAX,46
+Bradley International,324,Hartsfield-jackson Atlanta International,ATL,47,Fort Lauderdale–Hollywood International,574,Los Angeles International,LAX,47
+Portland International,318,Hartsfield-jackson Atlanta International,ATL,48,Hopkins International,93,Los Angeles International,LAX,48
+La Guardia,318,Hartsfield-jackson Atlanta International,ATL,49,Pittsburgh International,70,Los Angeles International,LAX,49
+George Bush Intercontinental,317,Hartsfield-jackson Atlanta International,ATL,50,Newark Liberty International,894,Los Angeles International,LAX,50
+Detroit Metropolitan Wayne County,316,Hartsfield-jackson Atlanta International,ATL,51,Seoul (Incheon),1386,Los Angeles International,LAX,51
+Daytona Beach International Airport,314,Hartsfield-jackson Atlanta International,ATL,52,Ted Stevens Anchorage International Airport,343,Los Angeles International,LAX,52
+Eppley Airfield,312,Hartsfield-jackson Atlanta International,ATL,53,Singapore Changi,392,Los Angeles International,LAX,53
+Washington Dulles International,306,Hartsfield-jackson Atlanta International,ATL,54,Louis Armstrong New Orléans International Airport,832,Los Angeles International,LAX,54
+Bush Field,306,Hartsfield-jackson Atlanta International,ATL,55,Fort Worth Alliance,36,Los Angeles International,LAX,55
+Huntsville International - Carl T. Jones Field,303,Hartsfield-jackson Atlanta International,ATL,56,Hong Kong International,60,Los Angeles International,LAX,56
+Hopkins International,297,Hartsfield-jackson Atlanta International,ATL,57,Sonoma County,40,Los Angeles International,LAX,57
+Charleston/AFB Municipal,290,Hartsfield-jackson Atlanta International,ATL,58,Jacksonville,83,Los Angeles International,LAX,58
+Birmingham,287,Hartsfield-jackson Atlanta International,ATL,59,Cancún International,323,Los Angeles International,LAX,59
+Blue Grass,287,Hartsfield-jackson Atlanta International,ATL,60,Internacional,25,Los Angeles International,LAX,60
+Honolulu International,285,Hartsfield-jackson Atlanta International,ATL,61,Provo,5,Los Angeles International,LAX,61
+Eglin AFB,283,Hartsfield-jackson Atlanta International,ATL,62,Snohomish County - Paine Field,42,Los Angeles International,LAX,62
+San Diego International Airport,281,Hartsfield-jackson Atlanta International,ATL,63,Daniel Oduber International,91,Los Angeles International,LAX,63
+Pittsburgh International,277,Hartsfield-jackson Atlanta International,ATL,64,Imperial County,262,Los Angeles International,LAX,64
+Love Field,275,Hartsfield-jackson Atlanta International,ATL,65,Indianapolis International,78,Los Angeles International,LAX,65
+Baltimore/Washington International Thurgood Marshall,275,Hartsfield-jackson Atlanta International,ATL,66,Clinton Field,13,Los Angeles International,LAX,66
+Dannelly Field,272,Hartsfield-jackson Atlanta International,ATL,67,Loreto,9,Los Angeles International,LAX,67
+Adams Field Airport,267,Hartsfield-jackson Atlanta International,ATL,68,Miami International Airport,1007,Los Angeles International,LAX,68
+Sharjah International Airport,266,Hartsfield-jackson Atlanta International,ATL,69,Jeffco,1,Los Angeles International,LAX,69
+Indianapolis International,260,Hartsfield-jackson Atlanta International,ATL,70,Arcata,32,Los Angeles International,LAX,70
+Sarasota/Bradenton International,258,Hartsfield-jackson Atlanta International,ATL,71,Reno-Tahoe International,869,Los Angeles International,LAX,71
+Buffalo Niagara International,258,Hartsfield-jackson Atlanta International,ATL,72,Merced Municipal Airport,132,Los Angeles International,LAX,72
+General Mitchell International,256,Hartsfield-jackson Atlanta International,ATL,73,Van Nuys,7,Los Angeles International,LAX,73
+Pensacola International Airport,255,Hartsfield-jackson Atlanta International,ATL,74,Tucson International Airport,293,Los Angeles International,LAX,74
+Will Rogers World Airport,253,Hartsfield-jackson Atlanta International,ATL,75,Xiamen,8,Los Angeles International,LAX,75
+Municipal,251,Hartsfield-jackson Atlanta International,ATL,76,Stewart,16,Los Angeles International,LAX,76
+Municipal/Baer Field,248,Hartsfield-jackson Atlanta International,ATL,77,Cincinnati/Northern Kentucky,759,Los Angeles International,LAX,77
+Central Illinois Regional Airport at Bloomington-Normal,240,Hartsfield-jackson Atlanta International,ATL,78,Nanjing Lukou International Airport,39,Los Angeles International,LAX,78
+Northwest Arkansas Regional,239,Hartsfield-jackson Atlanta International,ATL,79,Washington Dulles International,452,Los Angeles International,LAX,79
+San Antonio International,236,Hartsfield-jackson Atlanta International,ATL,80,Tampa International,767,Los Angeles International,LAX,80
+Midway,235,Hartsfield-jackson Atlanta International,ATL,81,Frankfurt International Airport,229,Los Angeles International,LAX,81
+South Bend Regional,229,Hartsfield-jackson Atlanta International,ATL,82,Sharjah International Airport,38,Los Angeles International,LAX,82
+Asheville Regional Airport,223,Hartsfield-jackson Atlanta International,ATL,83,Philadelphia International,179,Los Angeles International,LAX,83
+Mobile Regional Airport,221,Hartsfield-jackson Atlanta International,ATL,84,Arturo Merino Benitez,15,Los Angeles International,LAX,84
+William P Hobby,216,Hartsfield-jackson Atlanta International,ATL,85,Rogue Valley International - Medford Airport,179,Los Angeles International,LAX,85
+Dougherty County,215,Hartsfield-jackson Atlanta International,ATL,86,Licenciado Gustavo Díaz Ordaz International,310,Los Angeles International,LAX,86
+Dane County Regional,214,Hartsfield-jackson Atlanta International,ATL,87,Auckland International,50,Los Angeles International,LAX,87
+Schiphol,213,Hartsfield-jackson Atlanta International,ATL,88,Kingsford Smith,563,Los Angeles International,LAX,88
+Luis Munoz Marin International,208,Hartsfield-jackson Atlanta International,ATL,89,Kahului,418,Los Angeles International,LAX,89
+Gainesville Regional,208,Hartsfield-jackson Atlanta International,ATL,90,Minneapolis - St. Paul International,194,Los Angeles International,LAX,90
+Kansas City International Airport,204,Hartsfield-jackson Atlanta International,ATL,91,Memphis International,258,Los Angeles International,LAX,91
+Metropolitan Airport,202,Hartsfield-jackson Atlanta International,ATL,92,La Aurora,225,Los Angeles International,LAX,92
+Tallahassee Regional Airport,202,Hartsfield-jackson Atlanta International,ATL,93,Spokane International,247,Los Angeles International,LAX,93
+Ryan,192,Hartsfield-jackson Atlanta International,ATL,94,Ronald Reagan Washington National Airport,1035,Los Angeles International,LAX,94
+Lambert-St. Louis International,187,Hartsfield-jackson Atlanta International,ATL,95,San Antonio International,214,Los Angeles International,LAX,95
+Tulsa International,180,Hartsfield-jackson Atlanta International,ATL,96,Findel,17,Los Angeles International,LAX,96
+Port Columbus International,176,Hartsfield-jackson Atlanta International,ATL,97,Midway,96,Los Angeles International,LAX,97
+T. F. Green Airport,174,Hartsfield-jackson Atlanta International,ATL,98,Colorado Springs,125,Los Angeles International,LAX,98
+Sacramento International,173,Hartsfield-jackson Atlanta International,ATL,99,Doha International,101,Los Angeles International,LAX,99
+Ted Stevens Anchorage International Airport,172,Hartsfield-jackson Atlanta International,ATL,100,Fuzhou,60,Los Angeles International,LAX,100
+Heathrow,167,Hartsfield-jackson Atlanta International,ATL,101,Zhengzhou,205,Los Angeles International,LAX,101
+Myrtle Beach AFB,162,Hartsfield-jackson Atlanta International,ATL,102,Tullamarine,4,Los Angeles International,LAX,102
+Harrisburg International,161,Hartsfield-jackson Atlanta International,ATL,103,Kansas City International Airport,51,Los Angeles International,LAX,103
+Tri-cities Regional,160,Hartsfield-jackson Atlanta International,ATL,104,Kona International Airport,260,Los Angeles International,LAX,104
+Cancún International,156,Hartsfield-jackson Atlanta International,ATL,105,Los Cabos,400,Los Angeles International,LAX,105
+Evansville Regional Airport,156,Hartsfield-jackson Atlanta International,ATL,106,Will Rogers World Airport,60,Los Angeles International,LAX,106
+Boise Air Terminal/Gowen Field,155,Hartsfield-jackson Atlanta International,ATL,107,Ben Gurion International,26,Los Angeles International,LAX,107
+Golden Triangle Reg.,155,Hartsfield-jackson Atlanta International,ATL,108,Monterey Peninsula,67,Los Angeles International,LAX,108
+Don Miguel Hidalgo y Costilla International,154,Hartsfield-jackson Atlanta International,ATL,109,Livermore,5,Los Angeles International,LAX,109
+Glynco Jetport,149,Hartsfield-jackson Atlanta International,ATL,110,Juan Santamaría International,87,Los Angeles International,LAX,110
+Charles De Gaulle,138,Hartsfield-jackson Atlanta International,ATL,111,Shenzhen,6,Los Angeles International,LAX,111
+NW Florida Beaches Int,125,Hartsfield-jackson Atlanta International,ATL,112,Tulsa International,24,Los Angeles International,LAX,112
+Valdosta Regional Airport,119,Hartsfield-jackson Atlanta International,ATL,113,Lihue,124,Los Angeles International,LAX,113
+Yeager,115,Hartsfield-jackson Atlanta International,ATL,114,International,75,Los Angeles International,LAX,114
+Hartsfield-jackson Atlanta International,114,Hartsfield-jackson Atlanta International,ATL,115,Bush Field,18,Los Angeles International,LAX,115
+Lester B. Pearson International,113,Hartsfield-jackson Atlanta International,ATL,116,Redding,1,Los Angeles International,LAX,116
+Mineta San Jose International Airport,110,Hartsfield-jackson Atlanta International,ATL,117,Roberts Field,16,Los Angeles International,LAX,117
+Lafayette Regional,106,Hartsfield-jackson Atlanta International,ATL,118,Tocumen International,436,Los Angeles International,LAX,118
+Taiwan Taoyuan International (Chiang Kai Shek International),104,Hartsfield-jackson Atlanta International,ATL,119,Gen Rafael Buelna,13,Los Angeles International,LAX,119
+Reno-Tahoe International,104,Hartsfield-jackson Atlanta International,ATL,120,Gallatin Field,381,Los Angeles International,LAX,120
+Ataturk Airport,103,Hartsfield-jackson Atlanta International,ATL,121,Bellingham,15,Los Angeles International,LAX,121
+Syracuse Hancock International Airport,101,Hartsfield-jackson Atlanta International,ATL,122,Lambert-St. Louis International,75,Los Angeles International,LAX,122
+Fresno Air Terminal Airport,96,Hartsfield-jackson Atlanta International,ATL,123,Baltimore/Washington International Thurgood Marshall,91,Los Angeles International,LAX,123
+Mid-Continent,90,Hartsfield-jackson Atlanta International,ATL,124,Jackson Hole,251,Los Angeles International,LAX,124
+Metropolitan Oak International,89,Hartsfield-jackson Atlanta International,ATL,125,Dubai,48,Los Angeles International,LAX,125
+Joe Foss Field Airport,87,Hartsfield-jackson Atlanta International,ATL,126,Missoula International,9,Los Angeles International,LAX,126
+Arturo Merino Benitez,86,Hartsfield-jackson Atlanta International,ATL,127,Lester B. Pearson International,26,Los Angeles International,LAX,127
+Albemarle,84,Hartsfield-jackson Atlanta International,ATL,128,Del Bajío International,31,Los Angeles International,LAX,128
+Jorge Chavez International,82,Hartsfield-jackson Atlanta International,ATL,129,Guam International,14,Los Angeles International,LAX,129
+Los Cabos,82,Hartsfield-jackson Atlanta International,ATL,130,Charles De Gaulle,138,Los Angeles International,LAX,130
+Aeropuerto de las Américas,80,Hartsfield-jackson Atlanta International,ATL,131,Brisbane International,9,Los Angeles International,LAX,131
+Palm Springs Metropolitan Area,79,Hartsfield-jackson Atlanta International,ATL,132,Xoxocotlan,5,Los Angeles International,LAX,132
+Greater Rochester International,76,Hartsfield-jackson Atlanta International,ATL,133,Chu-Bu Centrair International (Central Japan International),20,Los Angeles International,LAX,133
+Gulfport-Biloxi International,75,Hartsfield-jackson Atlanta International,ATL,134,Liege Airport,17,Los Angeles International,LAX,134
+Albany International,72,Hartsfield-jackson Atlanta International,ATL,135,Southwest Florida International,153,Los Angeles International,LAX,135
+Wilmington International,70,Hartsfield-jackson Atlanta International,ATL,136,Litchfield,1,Los Angeles International,LAX,136
+Narita International Airport,69,Hartsfield-jackson Atlanta International,ATL,137,Prescott,36,Los Angeles International,LAX,137
+Eastern Iowa Airport,68,Hartsfield-jackson Atlanta International,ATL,138,General Mitchell International,16,Los Angeles International,LAX,138
+Jackson-evers,67,Hartsfield-jackson Atlanta International,ATL,139,Jose Joaquin De Olmedo,8,Los Angeles International,LAX,139
+Westchester County Apt,65,Hartsfield-jackson Atlanta International,ATL,140,John Wayne,11,Los Angeles International,LAX,140
+Des Moines International,63,Hartsfield-jackson Atlanta International,ATL,141,Eugene,39,Los Angeles International,LAX,141
+Alexandria International,63,Hartsfield-jackson Atlanta International,ATL,142,Philip S. W. Goldson International,4,Los Angeles International,LAX,142
+Hewanorra,60,Hartsfield-jackson Atlanta International,ATL,143,Hangzhou,1,Los Angeles International,LAX,143
+Aspen,59,Hartsfield-jackson Atlanta International,ATL,144,Christchurch International,36,Los Angeles International,LAX,144
+Albuquerque International,56,Hartsfield-jackson Atlanta International,ATL,145,Henderson Executive,4,Los Angeles International,LAX,145
+Jackson Hole,55,Hartsfield-jackson Atlanta International,ATL,146,Bermuda Dunes,10,Los Angeles International,LAX,146
+Hilton Head,55,Hartsfield-jackson Atlanta International,ATL,147,Francisco J. Múgica Internacional,22,Los Angeles International,LAX,147
+Dothan Airport,52,Hartsfield-jackson Atlanta International,ATL,148,Vancouver International,15,Los Angeles International,LAX,148
+John Wayne,52,Hartsfield-jackson Atlanta International,ATL,149,Mc Clellan-Palomar Airport,3,Los Angeles International,LAX,149
+Kona International Airport,50,Hartsfield-jackson Atlanta International,ATL,150,Page,1,Los Angeles International,LAX,150
+Tucson International Airport,48,Hartsfield-jackson Atlanta International,ATL,151,Aspen,192,Los Angeles International,LAX,151
+Outagamie County,44,Hartsfield-jackson Atlanta International,ATL,152,Sun Valley,81,Los Angeles International,LAX,152
+Nassau International,44,Hartsfield-jackson Atlanta International,ATL,153,Teterboro,1,Los Angeles International,LAX,153
+Guangzhou Baiyun International,43,Hartsfield-jackson Atlanta International,ATL,154,Nadi International,8,Los Angeles International,LAX,154
+Shanghai Pudong International,43,Hartsfield-jackson Atlanta International,ATL,155,Eagle County,31,Los Angeles International,LAX,155
+Sun Valley,42,Hartsfield-jackson Atlanta International,ATL,156,Jinan,4,Los Angeles International,LAX,156
+Springfield-Branson Rg,39,Hartsfield-jackson Atlanta International,ATL,157,Barajas,1,Los Angeles International,LAX,157
+Sheffield,38,Hartsfield-jackson Atlanta International,ATL,158,Sheremetyevo International,22,Los Angeles International,LAX,158
+Del Bajío International,37,Hartsfield-jackson Atlanta International,ATL,159,Yampa Valley,16,Los Angeles International,LAX,159
+Cyril E King Airport,34,Hartsfield-jackson Atlanta International,ATL,160,Holy Cross,1,Los Angeles International,LAX,160
+Frankfurt International Airport,33,Hartsfield-jackson Atlanta International,ATL,161,Montrose Regional Airport,26,Los Angeles International,LAX,161
+El Salvador International,32,Hartsfield-jackson Atlanta International,ATL,162,Scottsdale Municipalcipal,4,Los Angeles International,LAX,162
+Juan Santamaría International,32,Hartsfield-jackson Atlanta International,ATL,163,Aguascalients,18,Los Angeles International,LAX,163
+Spokane International,31,Hartsfield-jackson Atlanta International,ATL,164,Travis AFB,4,Los Angeles International,LAX,164
+Quad-City,29,Hartsfield-jackson Atlanta International,ATL,165,Charleston/AFB Municipal,56,Los Angeles International,LAX,165
+Rogue Valley International - Medford Airport,28,Hartsfield-jackson Atlanta International,ATL,166,County-Foster,5,Los Angeles International,LAX,166
+Kahului,27,Hartsfield-jackson Atlanta International,ATL,167,Walker Field,1,Los Angeles International,LAX,167
+Gallatin Field,27,Hartsfield-jackson Atlanta International,ATL,168,Thermal,4,Los Angeles International,LAX,168
+Eugene,26,Hartsfield-jackson Atlanta International,ATL,169,Spirit Of St Louis,1,Los Angeles International,LAX,169
+Lehigh Valley International,26,Hartsfield-jackson Atlanta International,ATL,170,La Calera,1,Los Angeles International,LAX,170
+Aeroporto Internacional Guarulhos,25,Hartsfield-jackson Atlanta International,ATL,171,Louisville International (Standiford Field),186,Los Angeles International,LAX,171
+Monterey Peninsula,23,Hartsfield-jackson Atlanta International,ATL,172,Bradley International,37,Los Angeles International,LAX,172
+Pierre Elliott Trudeau International,21,Hartsfield-jackson Atlanta International,ATL,173,Douglas County,10,Los Angeles International,LAX,173
+Colorado Springs,19,Hartsfield-jackson Atlanta International,ATL,174,Greater Rockford Airport,4,Los Angeles International,LAX,174
+Zhengzhou,19,Hartsfield-jackson Atlanta International,ATL,175,Zurich,11,Los Angeles International,LAX,175
+Kingsford Smith,16,Hartsfield-jackson Atlanta International,ATL,176,Napa County,1,Los Angeles International,LAX,176
+Licenciado Gustavo Díaz Ordaz International,16,Hartsfield-jackson Atlanta International,ATL,177,Savannah/Hilton Head,68,Los Angeles International,LAX,177
+Ontario International,16,Hartsfield-jackson Atlanta International,ATL,178,Ontario International,1,Los Angeles International,LAX,178
+L. F. Wade International,16,Hartsfield-jackson Atlanta International,ATL,179,Pendleton,1,Los Angeles International,LAX,179
+Mariscal Sucre,16,Hartsfield-jackson Atlanta International,ATL,180,Santa Fe,1,Los Angeles International,LAX,180
+Haneda Airport,15,Hartsfield-jackson Atlanta International,ATL,181,Los Angeles International,90,Los Angeles International,LAX,181
+Francisco J. Múgica Internacional,15,Hartsfield-jackson Atlanta International,ATL,182,T. F. Green Airport,14,Los Angeles International,LAX,182
+Clinton Field,13,Hartsfield-jackson Atlanta International,ATL,183,Austin-straubel Field,30,Los Angeles International,LAX,183
+Lihue,12,Hartsfield-jackson Atlanta International,ATL,184,James Cox Dayton International,83,Los Angeles International,LAX,184
+Brisbane International,12,Hartsfield-jackson Atlanta International,ATL,185,Gerald R. Ford International,56,Los Angeles International,LAX,185
+Findel,11,Hartsfield-jackson Atlanta International,ATL,186,Golden Triangle Reg.,19,Los Angeles International,LAX,186
+Punta Cana International,11,Hartsfield-jackson Atlanta International,ATL,187,Adams Field Airport,18,Los Angeles International,LAX,187
+Doha International,10,Hartsfield-jackson Atlanta International,ATL,188,Richmond International Airport,96,Los Angeles International,LAX,188
+Auckland International,10,Hartsfield-jackson Atlanta International,ATL,189,Eppley Airfield,18,Los Angeles International,LAX,189
+Snohomish County - Paine Field,9,Hartsfield-jackson Atlanta International,ATL,190,Northwest Arkansas Regional,50,Los Angeles International,LAX,190
+Eagle County,9,Hartsfield-jackson Atlanta International,ATL,191,Metropolitan Airport,30,Los Angeles International,LAX,191
+Stewart,9,Hartsfield-jackson Atlanta International,ATL,192,Pierre Elliott Trudeau International,13,Los Angeles International,LAX,192
+Franz Josef Strauss,8,Hartsfield-jackson Atlanta International,ATL,193,Yeager,26,Los Angeles International,LAX,193
+Arcata,8,Hartsfield-jackson Atlanta International,ATL,194,Eastern Iowa Airport,3,Los Angeles International,LAX,194
+Tullamarine,8,Hartsfield-jackson Atlanta International,ATL,195,Outagamie County,4,Los Angeles International,LAX,195
+Roberts Field,8,Hartsfield-jackson Atlanta International,ATL,196,Eglin AFB,53,Los Angeles International,LAX,196
+Litchfield,8,Hartsfield-jackson Atlanta International,ATL,197,Lovell Field,103,Los Angeles International,LAX,197
+Vancouver International,8,Hartsfield-jackson Atlanta International,ATL,198,Sangster International,4,Los Angeles International,LAX,198
+Jinan,8,Hartsfield-jackson Atlanta International,ATL,199,Norfolk International Airport,19,Los Angeles International,LAX,199
+Scottsdale Municipalcipal,8,Hartsfield-jackson Atlanta International,ATL,200,Central Illinois Regional Airport at Bloomington-Normal,33,Los Angeles International,LAX,200
+Exuma International,8,Hartsfield-jackson Atlanta International,ATL,201,Albemarle,31,Los Angeles International,LAX,201
+La Aurora,8,Hartsfield-jackson Atlanta International,ATL,202,Asheville Regional Airport,49,Los Angeles International,LAX,202
+Guam International,7,Hartsfield-jackson Atlanta International,ATL,203,Cyril E King Airport,12,Los Angeles International,LAX,203
+Liege Airport,7,Hartsfield-jackson Atlanta International,ATL,204,Daytona Beach International Airport,11,Los Angeles International,LAX,204
+Aguascalients,6,Hartsfield-jackson Atlanta International,ATL,205,Huntsville International - Carl T. Jones Field,73,Los Angeles International,LAX,205
+Imperial County,6,Hartsfield-jackson Atlanta International,ATL,206,Greenville Spartanburg International Airport,114,Los Angeles International,LAX,206
+Sangster International,6,Hartsfield-jackson Atlanta International,ATL,207,Sarasota/Bradenton International,44,Los Angeles International,LAX,207
+Daniel Oduber International,6,Hartsfield-jackson Atlanta International,ATL,208,International Jetport,30,Los Angeles International,LAX,208
+Redding,5,Hartsfield-jackson Atlanta International,ATL,209,Municipal/Baer Field,73,Los Angeles International,LAX,209
+Philip S. W. Goldson International,5,Hartsfield-jackson Atlanta International,ATL,210,Melbourne International Airport,17,Los Angeles International,LAX,210
+Van Nuys,5,Hartsfield-jackson Atlanta International,ATL,211,La Guardia,65,Los Angeles International,LAX,211
+Loreto,4,Hartsfield-jackson Atlanta International,ATL,212,Roanoke Regional Airport,63,Los Angeles International,LAX,212
+Greater Rockford Airport,4,Hartsfield-jackson Atlanta International,ATL,213,Greater Rochester International,30,Los Angeles International,LAX,213
+Mc Kellar-Sipes Regional,4,Hartsfield-jackson Atlanta International,ATL,214,Dothan Airport,8,Los Angeles International,LAX,214
+Ramon Villeda Morales International,4,Hartsfield-jackson Atlanta International,ATL,215,Blue Grass,12,Los Angeles International,LAX,215
+El Paso International Airport,4,Hartsfield-jackson Atlanta International,ATL,216,Dane County Regional,55,Los Angeles International,LAX,216
+El Nuevo Dorado International,4,Hartsfield-jackson Atlanta International,ATL,217,Jackson-evers,38,Los Angeles International,LAX,217
+Tocumen International,4,Hartsfield-jackson Atlanta International,ATL,218,Valdosta Regional Airport,16,Los Angeles International,LAX,218
+Missoula International,3,Hartsfield-jackson Atlanta International,ATL,219,Albany International,25,Los Angeles International,LAX,219
+County-Foster,3,Hartsfield-jackson Atlanta International,ATL,220,Lafayette Regional,16,Los Angeles International,LAX,220
+Murtala Muhammed,3,Hartsfield-jackson Atlanta International,ATL,221,Municipal,74,Los Angeles International,LAX,221
+Beijing Capital International,2,Hartsfield-jackson Atlanta International,ATL,222,NW Florida Beaches Int,29,Los Angeles International,LAX,222
+Jose Joaquin De Olmedo,2,Hartsfield-jackson Atlanta International,ATL,223,Mc Ghee Tyson,26,Los Angeles International,LAX,223
+Nadi International,2,Hartsfield-jackson Atlanta International,ATL,224,Des Moines International,12,Los Angeles International,LAX,224
+Montrose Regional Airport,2,Hartsfield-jackson Atlanta International,ATL,225,Tallahassee Regional Airport,29,Los Angeles International,LAX,225
+Barkley Regional,2,Hartsfield-jackson Atlanta International,ATL,226,Dannelly Field,44,Los Angeles International,LAX,226
+Norman Manley,2,Hartsfield-jackson Atlanta International,ATL,227,Piedmont Triad International,91,Los Angeles International,LAX,227
+Mobile Downtown,2,Hartsfield-jackson Atlanta International,ATL,228,Luis Munoz Marin International,39,Los Angeles International,LAX,228
+Manzanillo,1,Hartsfield-jackson Atlanta International,ATL,229,Wilmington International,1,Los Angeles International,LAX,229
+Hangzhou,1,Hartsfield-jackson Atlanta International,ATL,230,Gainesville Regional,8,Los Angeles International,LAX,230
+Mc Clellan-Palomar Airport,1,Hartsfield-jackson Atlanta International,ATL,231,Mid-Continent,79,Los Angeles International,LAX,231
+Thermal,1,Hartsfield-jackson Atlanta International,ATL,232,Buffalo Niagara International,62,Los Angeles International,LAX,232
+Bermuda Dunes,1,Hartsfield-jackson Atlanta International,ATL,233,Dougherty County,28,Los Angeles International,LAX,233
+Ninoy Aquino International,1,Hartsfield-jackson Atlanta International,ATL,234,Springfield-Branson Rg,4,Los Angeles International,LAX,234
+Santa Fe,1,Hartsfield-jackson Atlanta International,ATL,235,Port Columbus International,17,Los Angeles International,LAX,235
+Atlantic City International,1,Hartsfield-jackson Atlanta International,ATL,236,Birmingham,101,Los Angeles International,LAX,236
+Ingeniero Fernando Espinoza Gutiérrez International,1,Hartsfield-jackson Atlanta International,ATL,237,South Bend Regional,21,Los Angeles International,LAX,237
+Leonardo Da Vinci (Fiumicino),1,Hartsfield-jackson Atlanta International,ATL,238,Leonardo Da Vinci (Fiumicino),4,Los Angeles International,LAX,238
+Chennault International.,1,Hartsfield-jackson Atlanta International,ATL,239,Barkley Regional,10,Los Angeles International,LAX,239
+Page Field,1,Hartsfield-jackson Atlanta International,ATL,240,Ryan,3,Los Angeles International,LAX,240

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+        crossorigin="anonymous">
+    <link rel="stylesheet" href="static/css/style2.css">
+    <link rel="stylesheet" href="static/css/d3Style_2.css">
+    <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+    <title>Flight Dashboard</title>
+</head>
+<body>
+    <nav class = "navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="/">
+            <img src="https://i.pinimg.com/originals/e9/52/83/e95283dd48b149ee4815cc3a08f0936c.jpg" width="50" height="50" alt="" >
+        </a>
+        <button class = 'navbar-toggler' type = "button" data-toggle = "collapse" data-target = "#navbar">
+            <span class = "navbar-toggler-icon"></span>
+        </button>
+    <div class = "collapse navbar-collapse" id = "navbar">
+        <div class="navbar-nav">
+            <a class = "nav-item nav-link" id = "home" href="/">Home</a>
+            <a class = "nav-item nav-link" id = "graphic1" href="/chart1">Bar Chart</a>
+            <a class = "nav-item nav-link" id = "graphic2" href="/chart2">Scatter Chart</a>
+            <a class = "nav-item nav-link" id = "graphic3" href="/chart3">Map</a>            
+        </div>
+    </div>
+    </nav>
+
+    <div class = 'container'>
+        <h1>UP, UP, and AWAY</h1>
+            <div class = 'row'>
+                <div class="col-md-5">
+                    <div id="scatter"></div>
+                </div>
+                <!-- 
+                <div class="col-md-5">
+                     Add 2 buttons  
+                    <button onclick="update(data1)">Atlanta</button>
+                    <button onclick="update(data2)">Los Angeles 2</button>
+                    <div id="my_dataviz"></div>
+                </div>
+                        -->
+                <div class="col-md-5">
+                    <div id="map"></div>
+                </div>
+            </div>    
+    </div>
+    
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.9.1/d3-tip.js"></script>
+    <script type="text/javascript" src="../static/appscatter.js"></script>
+    <!-- <script type="text/javascript" src="../static/index.js"></script> -->
+      </body>
+      </html>
+    
+</body>
+</html>
